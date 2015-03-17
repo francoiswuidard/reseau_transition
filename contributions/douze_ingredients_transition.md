@@ -98,4 +98,4 @@ Chaque groupe de travail aura déjà été orienté vers des actions pratiques p
 
 Le processus de construction d’un PADE n’est pas trivial. Il évolue en fonction de ce que nous apprenons sur ce qui fonctionne et ce qui ne fonctionne pas.
 
-Fiche compilée par François Wuidard
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
