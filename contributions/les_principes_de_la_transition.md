@@ -62,4 +62,8 @@ Pour créer, nous devons d’abord avoir une vision :
   * Ce dernier principe consacre l’idée que l’intention du modèle de transition n’est pas de centraliser ou de contrôler la prise de décision. Nous travaillons avec tout le monde de sorte qu’elle est pratiquée au niveau le plus approprié, le plus pratique et le plus autonomisant. Avec comme inspiration la capacité des systèmes naturels à l’auto organisation.
   * Nous créons des méthodes de travail qui sont faciles à copier et qui se diffusent rapidement.
   
-  Fiche compilée par François Wuidard. 
+  ##Source : 
+
+Traduction et adaptation du site [Transition Network]( https://www.transitionnetwork.org/) par Josué Dusoulier. 
+
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
