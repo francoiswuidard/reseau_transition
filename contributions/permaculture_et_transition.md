@@ -100,11 +100,15 @@ Certaines initiatives ont des groupes de travail ou des projets explicitement ba
 
 Les permaculteurs apportent un réel plus à la dynamique de transition, de par leur lecture du monde et leur pratique des principes éthiques et de conception qui sont au cœur de la démarche de transition. Le dernier livre de Rob Hopkins, ["Ils changent le monde"](http://www.reseautransition.be/articles/ils-changent-le-monde-le-nouveau-livre-de-rob-hopkins-est-sorti-en-francais/) , met en avant que la Transition porte le pouvoir du passage à l’action, de la réalisation de projets concrets et inspirants. Autant de terrains d’aventure collective, d’expérimentation et de créativité pour les permaculteurs qui peuvent en y participant donner au mouvement qu’ils affectionnent une plus grande place dans la société.
 
-Josué Dussoulier
+Josué Dusoulier
 
 **Une partie de cet article a été publiée dans la revue [SaluTerre](http://www.amisdelaterre.be/spip.php?rubrique79)  des Amis de la terre, n°116 : « Permaculture, de la nature à la culture ».**
 
 ##Notes
 **[1](#note)**Extrait du Manuel de transition, de Rob Hopkins, Editions S!lence et Ecosociété, page 138.
 
-Fiche compilée par François Wuidard.
+##Source : 
+
+Article rédigé par Josué Dusoulier. 
+
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
