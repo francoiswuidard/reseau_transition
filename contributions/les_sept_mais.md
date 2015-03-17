@@ -56,4 +56,8 @@ Vous pouvez vous sentir débordé par la perspective du travail à accomplir et 
 
 Très souvent, développer des initiatives environnementales est un peu comme pousser une voiture en panne jusqu’en haut d’une colline ; difficile, ingrat. Une Ville en Transition, c’est lorsque l’on commence à descendre de l’autre côté – la voiture avance plus vite que ce que vous vous y attendiez, accélérant tout le temps. Une fois que vous avez donné le dernier coup en haut de la colline, elle développe son propre élan. Ça ne veut pas dire que le travail n’est pas difficile parfois, mais c’est toujours un plaisir.
 
-Fiche compilée par François Wuidard
+##Source :
+
+Manuel de Transition de Rob Hopkins. 
+
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
