@@ -15,5 +15,8 @@ Il réuni des personnes impliquées dans des projets collectifs, d’autres dans
 
 Cette formation est la première du genre donnée en français. Elle existe en anglais au Transition Network sous le nom [« Inner Transition«](http://www.transitionnetwork.org/training/courses/inner-transition) . 
 
+Source : 
 
-Fiche compilée par François Wuidard.
+Site du [Réseau de Transition Wallonie-Bruxelles](http://www.reseautransition.be/support/transition-interieure/)
+
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
