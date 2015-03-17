@@ -26,4 +26,8 @@ Schématiquement, lancer une initiative de transition peut se découper en trois
 
 – Expérimentez. Vous trouverez certainement des choses que nous n’avons pas trouvées.
 
-Fiche compilée par François Wuidard
+##Source : 
+
+Rédigé par Josué Dusoulier. 
+
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
