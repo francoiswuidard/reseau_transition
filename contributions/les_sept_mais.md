@@ -40,11 +40,9 @@ Si vous vous ne le faites pas, qui le fera ? Peu importe que vous n’ayez pas u
 
 S’il fallait donner un profil pour le poste à quelqu’un qui découvrirait le projet, cela donnerait une liste de quelques qualités :
 
-    *Positif
-
-    *Sociable
-
-    *Une connaissance de base du lieu et de quelques personnes clés de la ville
+* Positif
+* Sociable
+* Une connaissance de base du lieu et de quelques personnes clés de la ville
 
 Finalement, c’est à vous de trouver votre propre manière d’arriver à la première étape. Votre rôle à ce niveau est comme celui d’un jardinier qui prépare le sol pour le jardin à venir, que vous soyez là ou non lorsqu’il poussera.
 
