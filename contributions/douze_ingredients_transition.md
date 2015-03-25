@@ -1,4 +1,4 @@
-#Douze ingrédients de la Transition
+# Douze ingrédients de la Transition
 
 Ces 12 ingrédients sont issus des premières observations faites de ce qui semblait fonctionner dans le travail des premières Initiatives de Transition, en particulier à Totnes.
 
@@ -102,4 +102,4 @@ Le processus de construction d’un PADE n’est pas trivial. Il évolue en fonc
 
 Manuel de transition de Rob Hopkins. 
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+* Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
