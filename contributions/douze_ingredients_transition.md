@@ -1,6 +1,6 @@
 # Douze ingrédients de la Transition
 
-Ces 12 ingrédients sont issus des premières observations faites de ce qui semblait fonctionner dans le travail des premières Initiatives de Transition, en particulier à Totnes.
+> Ces 12 ingrédients sont issus des premières observations faites de ce qui semblait fonctionner dans le travail des premières Initiatives de Transition, en particulier à Totnes.
 
 Ils ne doivent pas être vus comme des prescriptions. Chaque projet peut les assembler de façon unique, telle une recette de cuisine qui varie en fonction des ingrédients disponibles, on peut toujours en ajouter certains et en écarter d’autres. Quoi qu’il en soit, ils offrent des éléments clés de votre aventure. Nous espérons qu’ils vous aideront pendant les premières années de votre travail.
 
