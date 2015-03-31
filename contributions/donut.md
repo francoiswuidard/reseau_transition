@@ -41,6 +41,10 @@ Cet exercice nécessite un lâcher prise par rapport au bien pensé habituel. Il
 
 Utilisez cet exercice pour démarrer ensuite une discussion (10-15') à propos de comment nos comportements sont déterminés par nos croyances et quels sont les besoins plus profonds qui sous-tendent ces croyances. Cette discussion peut avoir lieue en cercle classique ou en bocal. N'hésitez pas à demander à chaque participant de laisser percoler en lui les pensées, questions et émotions que cet exercice provoque en lui avant d'entamer la discussion. Si vous le sentez nécessaire, vous pouvez nommer les 5 besoins/émotions/croyances qui ressortent le plus souvent lors de cet exercice : Séparation (besoin d'être reliés); insécurité (besoin de sécurité), impuissance (besoin d'utilité/de retours sur l'action), colère (besoin de justice), désespoir (amour). Certains participants apprécient que la formulation soit rapidement « positive », exprimée en besoin universel plutôt qu'en croyance individuelle. 
 
+Voici un exemple d'image de donut pouvant être utilisé dans cet excercice (les bords rectangulaire représentant les bords de la feuille). 
+
+![exemple donut](https://lh3.googleusercontent.com/8rgWQ7ZpByA-jkq-6wtFxcJRw3_11nhAW2FlUL2Pdw=s196-p-no)
+
 ##Sources :
 
 Cet exercice nous a été transmis par le [Transition Network](https://www.transitionnetwork.org/)
