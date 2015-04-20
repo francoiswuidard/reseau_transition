@@ -49,4 +49,4 @@ Voici un exemple d'image de donut pouvant être utilisé dans cet excercice (les
 
 Cet exercice nous a été transmis par le [Transition Network](https://www.transitionnetwork.org/)
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
