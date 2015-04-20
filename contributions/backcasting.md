@@ -59,4 +59,4 @@ Manuel de transition de Rob Hopkins
 
 Pratiques de formation du [Reseau de transition Wallonie-Bruxelles](http://www.reseautransition.be/) 
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
