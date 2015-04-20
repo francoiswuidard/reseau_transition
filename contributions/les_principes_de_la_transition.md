@@ -66,4 +66,4 @@ Pour créer, nous devons d’abord avoir une vision :
 
 Traduction et adaptation du site [Transition Network]( https://www.transitionnetwork.org/) par Josué Dusoulier. 
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
