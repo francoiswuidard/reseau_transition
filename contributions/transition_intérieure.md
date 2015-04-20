@@ -19,4 +19,4 @@ Source :
 
 Site du [Réseau de Transition Wallonie-Bruxelles](http://www.reseautransition.be/support/transition-interieure/)
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
