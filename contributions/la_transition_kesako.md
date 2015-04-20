@@ -15,4 +15,4 @@ Le mouvement de Transition s’est bien installé en Belgique. Il y a des initia
 
 Rédigé par Josué Dusoulier. 
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
