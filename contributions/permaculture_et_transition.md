@@ -2,6 +2,10 @@
 
 ##La permaculture, au cœur des initiatives de transition
 
+![Permaculture](https://c2.staticflickr.com/4/3064/2643947660_c443d57f95_b.jpg)
+Photo par [Brian Boucheron](https://www.flickr.com/photos/bert_m_b/2643947660/in/photolist-52CVwu-bCM4N-81gg73-4HJZVn-81gNnU-aBCZkY-eBySi8-4m595L-eBz3CM-81gQJo-eBC8UQ-eByTvp-81gF2o-81fXgN-52yv5g-52CP8o-81dKFx-81djKn-8uw5N4-aHZEAa-aHZEpk-aHZheX-4kZGK6-aHZD1g-aHZCsz-aHZktZ-aHZjUV-aHZjp4-aHZiQ4-aHZipi-aHZice-aHZhTp-aHZhJB-aHZhyZ-4SvCYA-4SvCYo-4SvCYE-4SvCYL-81d9zg-81ggu7-81d6WX-81gfjS-81d68k-81d5Jk-81gebd-81d4Mc-81d4mi-81gcPj-81d3pH-81gbSf), sous licence Creative Commons BY
+
+
 Les initiatives de transition sont une application des principes de la permaculture à l’échelle d’un village, d’un quartier, d’une ville, mais aussi au niveau social et sociétal. Rob Hopkins, avant de lancer avec d’autres la première initiative de transition et le Transition Network, a d’ailleurs été enseignant en permaculture pendant une dizaine d’année. Pourquoi avoir changé de cap pour lancer ce mouvement ? Et comment se traduit concrètement cette application de la permaculture ? Quelle peut être la place des permaculteurs dans une initiative de transition ?
 
 ##De la permaculture à la transition
@@ -111,4 +115,4 @@ Josué Dusoulier
 
 Article rédigé par Josué Dusoulier. 
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
