@@ -1,4 +1,4 @@
-#La BIG liste : 
+# La BIG liste
 
 Tous les groupes d’initiatives citoyennes se lancent dans des projets. Afin de mener à bien ses projets, ces groupes citoyens sont la plupart du temps amener à créer des partenariats et des relations avec d’autres groupes et institutions près de chez eux. 
 
