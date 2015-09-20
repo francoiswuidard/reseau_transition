@@ -4,7 +4,7 @@ Tous les groupes d’initiatives citoyennes se lancent dans des projets. Afin de
 
 Faire en groupe la pratique de la big liste, peut vous aider à identifier de futurs partenaires et sympathisants. 
 
-##Première étape : 
+## Première étape : 
 
 En groupe, faites une liste de tous ceux qui se soucient du bien-être de la communauté : 
 
@@ -14,7 +14,7 @@ En groupe, faites une liste de tous ceux qui se soucient du bien-être de la com
 
 -	Votre but : construire des relations avec des collègues, amis, membres de la communauté, personnes critique, et tous ceux pour qui le bien être de la communauté est important. 
 
-##Procédure : 
+## Procédure : 
 
 •	Faire la liste de tous ceux pour qui la communauté est importante : personnes, endroit, groupes, réseaux
 
@@ -44,7 +44,7 @@ Cette représentation n’est pas à prendre au pied de la lettre, il s’agit d
 
 Maintenant que vous vous êtes représenté qui pouvais être vos potentiel partenaire dans vos projets, aller y prenez contact avec eux pour construire le monde de demain ! 
 
-##Sources : 
+## Sources : 
 
 Les pratiques de formation du [transition network](https://www.transitionnetwork.org/)
 
