@@ -1,6 +1,6 @@
-#Guide exercice : des croyances aux comportements
+# Guide exercice : des croyances aux comportements
 
-##Objectifs : 
+## Objectifs : 
 
 •	Ouvrir les participants à une vision différente des personnes autour d'eux, n'agissant pas dans le sens souhaité au vu des changements climatiques
 
@@ -14,11 +14,11 @@
 
 40 minutes avec débriefing
 
-##Nombre de participants possibles : 
+## Nombre de participants possibles : 
 
 6 à 30 participants
 
-##Consignes aux participants : 
+## Consignes aux participants : 
 
 Formez des groupes de 3 à 6 participants. Chaque groupe prend une feuille de flip chart et des marqueurs. Répartissez vous dans l'espace. Si possible asseyez-vous au sol, autour de la feuille de flip chart, sinon sur des chaises. (il ne faudra pas rester longtemps assis au sol). 
 
@@ -35,7 +35,7 @@ Sur le premier cercle (partie mangeable du donut), prenez 5' pour déterminer et
 
 Maintenant, nous allons positionner toutes les feuilles au centre de la pièce et former une fleur. Prenez 5', en silence pour lire les différentes feuilles. Il s'agit de remplir, chacun pour vous, le centre, du donut. Pour cela, écrivez ce qui sous-tend ces croyances, quelque chose de plus profond les relie entre elles. 
 
-##Consignes supplémentaires pour le formateur :
+## Consignes supplémentaires pour le formateur :
 
 Cet exercice nécessite un lâcher prise par rapport au bien pensé habituel. Il est important que les participants puissent, lors des deux premiers tours d'écriture, se sentir débrider. N'hésitez par à rire avec eux d'un exemple très stéréotypé. Par exemple, un comportement peut être « rouler en gros 4*4 », la croyance “Je suis le Roi du Monde”. Essayez de ne pas donner d'exemple pour ce qui sera derrière les croyances premières pour ne pas trop influencer cette partie. 
 
@@ -45,7 +45,7 @@ Voici un exemple d'image de donut pouvant être utilisé dans cet excercice (les
 
 ![exemple donut](https://lh3.googleusercontent.com/8rgWQ7ZpByA-jkq-6wtFxcJRw3_11nhAW2FlUL2Pdw=s196-p-no)
 
-##Sources :
+## Sources :
 
 Cet exercice nous a été transmis par le [Transition Network](https://www.transitionnetwork.org/)
 
