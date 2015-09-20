@@ -1,8 +1,8 @@
-Les Cercles de propagations
+# Les Cercles de propagations
 
 
 
-Sources
+# Sources
 
 Adapté d'une pratique créée par J. Macy et M.Y Brown , Ecopsychologie pratique, ED. Le Souffle d'Or, 2008
 
