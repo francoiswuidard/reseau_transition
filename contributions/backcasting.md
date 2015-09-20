@@ -1,4 +1,4 @@
-#Vision d'un avenir post-transition 
+# Vision d'un avenir post-transition 
 
 *Lisez les instructions suivantes. Faites une pause à la fin de chaque phrase. Donnez une pause plus longue à la fin de chaque paragraphe. Utilisez votre voix pour créer un sentiment de calme et de paix.*
 
@@ -53,7 +53,7 @@ Et petit à petit, votre journée dans cet endroit du futur se termine, vous fai
 Laissez-vous progressivement revenir au présent, dans ce lieu, vous êtes à une formation sur la transition. rentrez entièrement dans votre corps. Prenez votre temps, renouez avec votre souffle, sentez le poids de votre corps sur la chaise ou sur le sol, le contact de vos pieds avec le sol, et vos bras, reposés. Portez attention auxs sons dans la salle, aux odeurs .. 
 Et lorsque vous êtes prêt, à votre rythme, vous pouvez commencer à bouger vos doigts, vos orteils. Etirez-vous, comme le ferait un petit chat. Et doucement, apprêtez-vous à ouvrir vos yeux, faites les clignoter quelques fois... et revenez complètement dans le present. Aaahhhh. 
 
-##Sources : 
+## Sources : 
 
 Manuel de transition de Rob Hopkins
 
