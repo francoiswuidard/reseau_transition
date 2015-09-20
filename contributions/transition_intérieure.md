@@ -1,4 +1,4 @@
-#Transition intérieure
+# Transition intérieure
 
 ![formatransitionintérieure](http://www.reseautransition.be/wp-content/uploads/2014/07/P1070720-300x225.jpg)
 
@@ -15,7 +15,7 @@ Il réuni des personnes impliquées dans des projets collectifs, d’autres dans
 
 Cette formation est la première du genre donnée en français. Elle existe en anglais au Transition Network sous le nom [« Inner Transition«](http://www.transitionnetwork.org/training/courses/inner-transition) . 
 
-##Sources : 
+## Sources : 
 
 Site du [Réseau de Transition Wallonie-Bruxelles](http://www.reseautransition.be/support/transition-interieure/)
 
