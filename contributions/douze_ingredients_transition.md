@@ -6,13 +6,13 @@ Ils ne doivent pas être vus comme des prescriptions. Chaque projet peut les ass
 
 Le [Transition Companion](http://www.athentransition.be/articles/article-sortie-du-livre-transition-companion-de-88280894-html/) (une suite du manuel de transition, disponible en anglais) propose des ingrédients complémentaires très utiles ainsi que 5 étapes par lesquelles semblent passer la plupart des initiatives.
 
-##N°1. Mettre en place un groupe de pilotage et planifier sa dissolution, dès le départ
+## N°1. Mettre en place un groupe de pilotage et planifier sa dissolution, dès le départ
 
 Il s’agit de mettre en place une équipe de base pour piloter le projet durant les premières phases.
 
 Nous recommandons de créer un groupe de direction ayant pour objectif de mener à bien les étapes 2 à 5. Une fois qu’un minimum de quatre sous-groupes est formé, le groupe de direction est dissout et reformé avec une personne représentante de chaque groupe. Ceci demande une certaine humilité, mais c’est un point très important pour garantir le succès du projet au-delà des engagements personnels. Au final, votre groupe de direction devrait être constitué des représentants de chaque sous-groupe.
 
-##N°2 Sensibilisation
+## N°2 Sensibilisation
 
 Cette étape vous permettra d’identifier vos alliés clé, de construire des réseaux les plus essentiels et de préparer la commune en général au lancement de votre Initiative de Transition.
 
@@ -20,13 +20,13 @@ Pour qu’un véritable plan de décroissance énergétique évolue, ces partici
 
 Des conférences d’experts dans les domaines du changement climatique, du pic pétrolier et des solutions pour les communes peuvent être très encourageantes.Des articles dans la presse locale, des interviews à la radio locale, des présentations à des groupes existants, y compris dans des écoles, font aussi une partie de la boîte à outil permettant de conscientiser les gens et de les amener à penser aux solutions.
 
-##N°3 Jeter les fondations
+## N°3 Jeter les fondations
 
 Il est temps de se mettre en réseau avec les groupes et activistes existants, d’exposer clairement le fait que l’Initiative de Transition est destinée à incorporer leurs efforts passés et futurs, en regardant l’avenir avec une nouvelle approche. Tout en reconnaissant et en faisant honneur au travail qu’ils accomplissent, insistez sur le fait qu’ils ont un rôle vital à jouer.
 
 Donnez leur un état des lieux concis et accessible du pic pétrolier, ce qu’il signifie, comment il est relié au changement climatique, comment il va affecter votre communauté, ainsi que les défis clés qu’il présente. Exposez vos idées sur la façon dont une Initiative de Transition permettrait d’agir comme un catalyseur, pour faire que la communauté explore des solutions et amorce une réflexion sur les principales stratégies d’atténuation.
 
-##N°4 Organiser un Grand Déchaînement
+## N°4 Organiser un Grand Déchaînement
 
 Cette étape permet de créer un évènement mémorable qui marquera le « passage à l’âge adulte » de votre projet, d’impliquer une large partie de la commune, de donner l’élan nécessaire pour propulser votre Initiative dans les phases à venir, et de fêter le désir de votre commune de passer à l’action. En termes de timing, nous estimons que le mieux est de s’y prendre entre six mois et un an après votre première projection de sensibilisation.
 
@@ -36,7 +36,7 @@ Un élément que nous avons vu très bien fonctionner est la présentation des b
 
 Il ne s’agit pas uniquement de prises de parole, cela peut inclure de la musique, un buffet, un opéra, du break dance, ou quoi que ce soit qui reflète le mieux l’intention de votre commune de s’embarquer dans cette aventure collective.
 
-##N°5 Former des groupes de travail
+## N°5 Former des groupes de travail
 
 Une partie du processus de développement d’un Plan d’Action de Décroissance Energétique est à puiser dans le génie collectif de la commune. Pour cela, le point crucial est de créer des groupes plus petits qui se concentrent sur des aspects spécifiques du processus. Chaque groupe développera ses propres façons de travailler et ses propres activités, tout en restant en lien avec le projet dans son ensemble.
 
@@ -44,7 +44,7 @@ Idéalement, les groupes de travail sont nécessaires pour tous les aspects de l
 
 Chacun de ces groupes étudiera un de ces aspects et essaiera de déterminer les meilleures solutions pour élaborer la résilience de la commune et réduire son bilan carbone. Ces solutions formeront l’épine dorsale d’un Plan d’Action.
 
-##N°6 Utiliser des forums ouverts
+## N°6 Utiliser des forums ouverts
 
 Il nous semble que le principe du forum ouvert est une approche très efficace pour mener des réunions d’Initiatives de Transition.
 
@@ -62,7 +62,7 @@ Il y a un équilibre difficile à atteindre ici au cours de ces premières étap
 
 A Totnes, le groupe Alimentation a lancé un projet appelé « Totnes – capitale britannique du noyer », qui vise à installer autant d’arbres à noix comestibles que possible dans la ville. Avec l’aide de la mairie, nos avons récemment planté plusieurs arbres dans le centre de la ville, et en avons fait une grande manifestation.
 
-##N°8 Stimuler la Grande Requalification
+## N°8 Stimuler la Grande Requalification
 
 Si nous devons répondre au pic pétrolier et au changement climatique en baissant notre consommation d’énergie et en relocalisant notre commune, alors nous avons besoin des nombreux savoir-faire acquis par nos grands-parents. Une des choses les plus utiles que peut faire une Initiative de Transition est d’inverser la « Grande Déqualification » de ces 40 dernières années en proposant d’apprendre une bonne partie de ces savoir-faire.
 
@@ -72,13 +72,13 @@ La réparation, la cuisine, les cycles de maintenance, le bâtiment « naturel �
 
 Votre programme de Grande Requalification donnera aux gens une représentation puissante de leurs propres capacités à résoudre les problèmes, d’arriver à des résultats concrets et de travailler en coopération avec d’autres personnes. Ils apprécieront aussi le fait qu’apprendre peut être franchement sympa.
 
-##N°9 Créer un pont avec la municipalité
+## N°9 Créer un pont avec la municipalité
 
 Quel que soit le degré de mobilisation que votre Initiative de Transition parvient à générer, quel que soit le nombre des projets concrets que vous avez entrepris et aussi merveilleux que soit votre Plan de Descente Energétique, vous ne progressez jamais très loin sans cultiver une relation positive et productive avec les autorités locales. Qu’il s’agisse de questions de planification, de financement ou de fournir des contacts, vous en aurez besoin. Contrairement à ce que vous imaginez, il se pourrait bien que vous vous retrouviez en train d’enfoncer une porte ouverte.
 
 Nous sommes en train d’étudier comment nous pourrions présenter un Plan d’Action de Descente Energétique pour Totnes dans un format similaire à l’actuel Plan de Développement de la Commune. Peut-être qu’un jour les membres du conseil seront assis à une table avec deux documents devant eux – un Plan classique d’un côté et un joli Plan d’Action de Descente Energétique de l’autre. Début 2008, le prix du baril frisait avec les 100$. Les planificateurs regarderont un document, puis l’autre, et concluront que seul le Plan d’Action de Descente Energétique aborde effectivement les défis auxquels ils sont confrontés.
 
-##N°10 Honorer les Anciens
+## N°10 Honorer les Anciens
 
 Pour ceux d’entre nous qui sont nés dans les années 60 lorsque le baril bon marché était en plein boom, il est difficile de se représenter une vie avec moins de pétrole. A chaque année de ma vie (en dehors des années de crise des années 70), la consommation d’énergie n’a fait qu’augmenter par rapport à l’année précédente.
 
@@ -86,19 +86,19 @@ Pour concevoir une image réelle d’une société consommant moins d’énergie
 
 Même si vous souhaitez clairement éviter l’impression que ce que vous préconisez est une régression ou un retour vers une espèce de passé flou et lointain, il y a beaucoup à tirer de la façon dont les choses ont été faites, de découvrir les liens invisibles qui unissaient les différents éléments de la société, et comment se passait la vie au quotidien. Savoir tout cela peut être très éclairant, et permet de renforcer les sentiments qui nous lient aux lieux où nous développons nos Initiatives de Transition.
 
-##N°11 Laisser aller là où cela veut aller…
+## N°11 Laisser aller là où cela veut aller…
 
 Bien que vous puissiez commencer le développement de votre Initiative de Transition avec une idée bien précise de là où elle va aller, elle va inévitablement aller ailleurs. Si vous essayez de vous en tenir à une vision rigide, elle commencera à saper votre énergie et vous fera décrocher. Votre rôle n’est pas de mettre au point toutes les réponses, mais d’agir pour la commune comme un catalyseur à la conception de sa propre transition.
 
 Si vous restez attentif aux principaux critères – bâtir la résilience de la commune et réduire son bilan carbone – vous verrez comme le génie collectif de la commune permet de faire émerger une solution faisable, réaliste et très inventive.
 
-##N°12 Créer un Plan de Descente Energétique
+## N°12 Créer un Plan de Descente Energétique
 
 Chaque groupe de travail aura déjà été orienté vers des actions pratiques pour accroître la résilience de la commune et réduire son bilan carbone. Ensemble, les mesures qui en résulteront formeront le Plan d’Action de Descente Energétique (PADE). C’est là que le génie collectif de la commune aura conçu son propre avenir, pour prendre en compte les menaces potentielles du pic pétrolier et du changement climatique.
 
 Le processus de construction d’un PADE n’est pas trivial. Il évolue en fonction de ce que nous apprenons sur ce qui fonctionne et ce qui ne fonctionne pas.
 
-##Source : 
+## Source : 
 
 Manuel de transition de Rob Hopkins. 
 
