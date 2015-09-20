@@ -1,4 +1,4 @@
-#Démarrer un groupe
+# Démarrer un groupe
 
 Schématiquement, lancer une initiative de transition peut se découper en trois phases :
 
@@ -26,6 +26,6 @@ Schématiquement, lancer une initiative de transition peut se découper en trois
 
 – Expérimentez. Vous trouverez certainement des choses que nous n’avons pas trouvées.
 
-##Source : 
+## Source : 
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
