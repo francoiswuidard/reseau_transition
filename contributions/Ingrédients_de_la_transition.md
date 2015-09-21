@@ -13,4 +13,4 @@ Chaque ingrédient est repris sur une page web différente. Si vous souhaitez le
 
 Traduit du Transition Companion (Rob Hopkins). 
 
-Publié par [Vincent Wattelet](mailto: vincent@reseautransition.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
+Publié par [Vincent Wattelet](mailto: vincent@reseautransition.be) via [Réseau Transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
