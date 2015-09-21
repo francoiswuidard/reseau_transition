@@ -39,3 +39,9 @@ Vous pourriez, si vous en avez les moyens, décider de mener une étude annuelle
 ### Autres outils moins formels
 D'autres types d'outils de collecte de données ciblent davantage le comportement et l'attitude des gens. Cette approche est tout aussi utile que l'approche quantitative décrite ci-dessus. Des interviews semi-structurées, où sont traités divers sujets à l'aide de questions ouvertes, sont un excellent moyen de cerner ce que les personnes impliquées dans une initiative de Transition ou un projet particulier apprécient et qualifient d'efficace. Vous pourriez aussi organiser des exercices de groupe2 où chacun donnerait son avis sur les indicateurs permettant de mesurer le degré de réussite d'un projet. N'hésitez pas à revenir sur ces points à la fin du projet. 
 Les sondages et questionnaires sont également un moyen d'aller à la rencontre des habitants de votre quartier. Par exemple, Helena en Transition, au Montana, États-Unis, a effectué des sondages d'attitude avant d'entamer les activités de sensibilisation à la Transition. Ils se sont notamment entretenus avec des personnes-ressources pour comprendre ce qu'elles faisaient réellement et pour identifier les préoccupations des habitants de la région. Le résultat a ensuite déterminé la façon dont Helena en Transition a pensé ses activités. 
+
+## Source : 
+
+Traduit du [Transition Companion] (https://www.transitionnetwork.org/transition-companion) écrit par [Rob Hopkins] (https://www.transitionnetwork.org/about/people/staff-and-key-contributors). Traduction selon les termes de la licence Creative Commons BY-NC-SA.
+
+Publié par [Vincent Wattelet](mailto: vincent@reseautransition.be) via [Réseau Transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
