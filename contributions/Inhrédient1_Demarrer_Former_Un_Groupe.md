@@ -8,7 +8,7 @@ En démarrant un groupe de Transition, on pourrait souvent faire l'erreur de cro
 ##SOLUTION
 Nous conseillons de mettre en place  dès le début des structures claires et des procédures simples qui aideront votre groupe à travailler de façon amusante et efficace. Prenez le temps qu'il faut pour apprendre à vous connaître personnellement !
 *Des liens vers des outils, conseils, formations et possibilité de support sont présents dans la rubrique « Nous vous aidons » de notre site internet.* 
-##Description complète
+##DESCRIPTION COMPLETE
 par Sophy Banks 
 « Ne doutez jamais du fait qu'un petit groupe de citoyens engagés et décidés puisse changer le monde. En effet, il en a toujours été ainsi. » Margaret Mead
 En démarrant un groupe de Transition, on pourrait souvent faire l'erreur de croire qu'étant donné que le groupe s'est créé autour d'un objectif principal commun, il sera facile de travailler ensemble. Toutefois, chaque personne conçoit le fonctionnement d'un groupe de façon différente, sur base d'expériences passées, de croyances et en fonction de ses propres forces et capacités. Cet ingrédient ne prétend pas dicter la « bonne » façon de structurer un groupe, car chaque groupe va devoir trouver son propre mode de fonctionnement. Nous proposons malgré tout quelques idées et stratégies utiles qui pourront vous aider à trouver votre chemin. 
