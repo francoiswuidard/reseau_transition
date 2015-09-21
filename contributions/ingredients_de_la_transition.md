@@ -11,6 +11,6 @@ Il en va de même pour la Transition. Le processus passe par certaines étapes b
 
 ## Source : 
 
-Traduit du [Transition Companion](https://www.transitionnetwork.org/transition-companion) écrit par [Rob Hopkins] (https://www.transitionnetwork.org/about/people/staff-and-key-contributors). Traduction selon les termes de la licence Creative Commons BY-NC-SA.
+Traduit du [Transition Companion](https://www.transitionnetwork.org/transition-companion) écrit par [Rob Hopkins](https://www.transitionnetwork.org/about/people/staff-and-key-contributors). Traduction selon les termes de la licence Creative Commons BY-NC-SA.
 
-Publié par [Vincent Wattelet](mailto: vincent@reseautransition.be) via [Réseau Transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
+Publié par [Vincent Wattelet](mailto: vincent@reseautransition.be) via [Réseau Transition Belgique](http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
