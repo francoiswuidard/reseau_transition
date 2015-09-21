@@ -53,6 +53,7 @@ Comment gérer les désaccords ?
 Comment et quand revoir et changer les règles du groupe ? Une dernière chose  que nous conseillons de prendre en considération est de savoir de qui vous avez besoin dans le groupe :  Quelles sont les compétences demandées ? Quelles sont les voix qui devraient être représentées et qui ne le sont pas ?
 ## Notes
 **[1] (#note)** Voir également [la fiche outil Charte] (http://www.reseautransition.be/outils/ressources-gouvernance/creation-dun-charte/)
+
 **[2] (#note)** Voir également [la fiche outil inclusions - sortie - exclusion] (http://www.reseautransition.be/outils/ressources-gouvernance/inclusions-sorties-et-exclusion-dans-un-groupe/)
 ## Sources
 Traduit du [Transition Companion] (https://www.transitionnetwork.org/transition-companion) écrit par [Rob Hopkins] (https://www.transitionnetwork.org/about/people/staff-and-key-contributors). Traduction selon les termes de la licence Creative Commons BY-NC-SA.
