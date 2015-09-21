@@ -35,7 +35,9 @@ Voici une petite liste d'activités qu'un groupe pourrait inclure dans ses objec
 - Donner et recevoir de l'aide
 - Apprendre et partager des outils et des connaissances
 ##Comment notre groupe fonctionne-t-il ?**[1](#note)**
-Il vous faudra également vous mettre d'accord sur certaines règles de base concernant le fonctionnement du groupe. Cet exercice permet d'éviter les malentendus. N'hésitez pas à les coucher sur papier et à les amener à chaque réunion du groupe pour bien les garder à l'esprit. La plupart des groupes mettent à jour et ajoutent des règles en cours de route. Voici à quoi pourraient ressembler certaines règles de départ :
+Il vous faudra également vous mettre d'accord sur certaines règles de base concernant le fonctionnement du groupe. Cet exercice permet d'éviter les malentendus. N'hésitez pas à les coucher sur papier et à les amener à chaque réunion du groupe pour bien les garder à l'esprit. 
+
+La plupart des groupes mettent à jour et ajoutent des règles en cours de route. Voici à quoi pourraient ressembler certaines règles de départ :
 - Où et quand se rencontrer
 - Comment gérer une réunion (ordre du jour, animation/facilitation, gestion du temps, etc. – voir RÉUNIONS EFFICACES (Outils de la Transition nº 4))
 - Comment prendre des décisions (consensus, vote à la majorité, consentement), les noter et suivre leur mise en œuvre
