@@ -1,4 +1,4 @@
-# Bilan de santé : Comment se porte notre initiative de transition (IT) ?
+ # Bilan de santé : Comment se porte notre initiative de transition (IT) ?
 
 Le bilan de santé a pour objectif d'aider les initiatives de Transition à :
 
@@ -18,30 +18,30 @@ N'hésitez pas à visiter le site du Réseau Transition Wallonie Bruxelles ou du
 
 Le bilan de santé se concentre sur les premières étapes de la Transition, afin d'assurer de solides bases. Vous trouverez par ailleurs, en lisant les ingrédients repris dans le Transition Companion et sur le site internet, bien plus d'idées d'activités et d'outils que vous pourriez souhaiter utiliser. 
 
-## Comment dresser le bilan de santé de votre initiative de Transition 
+ ## Comment dresser le bilan de santé de votre initiative de Transition 
 
 En petits groupes, parcourez les phrases en évaluant les réponses sur une échelle allant de 1 à 5. 1 signifie que « cette phrase ne correspond pas à notre IT » et 5 signifie que « cela est vrai dans notre cas et nous nous en sortons très bien dans ce domaine ». Ne bloquez pas sur une phrase : si une question ne s'applique pas à votre initiative ou n'a pas de sens à vos yeux, passez à la suivante. Si vous ne parvenez pas à vous mettre d'accord sur un résultat, choisissez soit d'inscrire la moyenne, soit de représenter la fourchette sur le diagramme. Souvenez-vous que les discussions que l'exercice suscite sont plus importantes que l'obtention d'un résultat élevé, ou d'un résultat tout court ! Indiquez sur le diagramme tous les moments où vous avez pris conscience de quelque chose, ainsi que les désaccords. En cherchant à comprendre le pourquoi des divergences, vous pourriez découvrir des aspects importants et intéressants de la Transition, ou de la façon dont votre groupe fonctionne. 
 
 
 Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extrémité et le 1 au centre. Commencez par la question 1 et continuez avec la 2, 3, 4, etc. dans le sens des aiguilles d'une montre. Recommencez un nouveau diagramme pour chacun des 9 domaines. Au final, vous obtiendrez pour chaque domaine quelque chose qui ressemble un peu à l'exemple ci-dessous. Étant donné que certains domaines comportent plus de 8 questions, vous pouvez par exemple couper un quartier en deux. Vous pouvez choisir de mener cet exercice régulièrement (chaque année par exemple) pour comparer vos résultats. Il est en effet difficile de mesurer ou d'évaluer la Transition et cet exercice est une façon de le faire. N'hésitez pas à ajouter d'autres phrases qui pourraient vous aider à évaluer votre état de santé. Bon amusement !
-## 1) Comment lancer la Transition : démarrer un groupe initiateur
+ ## 1) Comment lancer la Transition : démarrer un groupe initiateur
 
-1. Nous avons un groupe noyau/initiateur composé de 4 à 15 personnes
+1) Nous avons un groupe noyau/initiateur composé de 4 à 15 personnes
 
-2. Notre groupe possède une même vision de ce qu'est la Transition et de pourquoi elle est nécessaire
+2) Notre groupe possède une même vision de ce qu'est la Transition et de pourquoi elle est nécessaire
 
-3. Notre groupe s'est inscrit sur le site du réseau international ou du réseau national
+3) Notre groupe s'est inscrit sur le site du réseau international ou du réseau national
 
-4. Nous avons pris contact avec les initiatives aux alentours
+4) Nous avons pris contact avec les initiatives aux alentours
 
-5. Nous avons réfléchi aux domaines que nous couvrons et nous nous rapprochons d'une diversité idéale et réaliste
+5) Nous avons réfléchi aux domaines que nous couvrons et nous nous rapprochons d'une diversité idéale et réaliste
 
-6. Nous comprenons les chances et les défis liés à la Transition dans notre quartier
+6) Nous comprenons les chances et les défis liés à la Transition dans notre quartier
 
-7. Au moins une personne de notre groupe possède des connaissances approfondies de la Transition, car elle a suivi des formations, lu des livres ou parcouru les sites internet 
+7) Au moins une personne de notre groupe possède des connaissances approfondies de la Transition, car elle a suivi des formations, lu des livres ou parcouru les sites internet 
 
 
-## 2) Renforcer votre groupe
+ ## 2) Renforcer votre groupe
 
 1) Notre groupe s'est mis d'accord sur des objectifs clairs
 
@@ -65,7 +65,7 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 
 11) Nous avons pu gérer de façon satisfaisante les différences ou les conflits qui se sont présentés à nous
 
-## 3) Réseaux et partenariats
+ ## 3) Réseaux et partenariats
 
 
 1) Nous entretenons des liens avec des organisations locales importantes comme les écoles, les entreprises, les comités de quartiers, les associations locales...
@@ -87,7 +87,7 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 9) (avancé) Nous possédons un plan stratégique sur les partenariats et les réseaux
 
 10) (avancé) Nous faisons la promotion du travail d'autres groupes dans notre région
-## 4) Vision
+ ## 4) Vision
 
 1) Nous partageons une vision commune des défis (comme la raréfaction des ressources, la pollution, les inégalités, la vulnérabilité économique) qui nous imposent d'imaginer l'avenir autrement
 
@@ -100,7 +100,7 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 5) (avancé) Nous comprenons la nécessité d'adopter un plan pour un avenir positif qui soit assez souple pour s'adapter à l'inconnu
 
 6) (avancé) Nous avons impliqué les habitants de notre quartier dans la recherche d'une vision positive de l'avenir
-## 5) Réfléchir et célébrer
+ ## 5) Réfléchir et célébrer
 
 1) Nous tenons les bénévoles/membres du groupe, les habitants du quartier et les parties prenantes au courant de nos actions
 
@@ -121,7 +121,7 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 
 
 (Si vous êtes à la recherche d'idées d'activités pour inclure davantage de détente et d'amusement dans votre groupe, nous vous invitons à aller lire les éléments d'aide de la Transition intérieure)
-## 6) Projets pratiques
+ ## 6) Projets pratiques
 
 1) Nous menons toute une série de projets pratiques bénéfiques à la population locale
 
@@ -135,7 +135,7 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 
 6) Nous savons qui, dans notre quartier, a l'expertise et comment partir de là
 
-## 7) Implication de la population locale
+ ## 7) Implication de la population locale
 
 1) Nous savons qui habite dans notre région, comment communiquer avec ces personnes et les impliquer de façon sensée dans notre groupe/nos projets
 
@@ -153,7 +153,7 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 
 8) Nous faisons la promotion et la publicité de nos événements et projets via les médias locaux adaptés
 
-## 8) Transition intérieure
+ ## 8) Transition intérieure
 
 1) Nous sommes conscients de la signification et de la profondeur émotionnelles des points soulevés par la Transition et nous savons comment les gérer
 
@@ -165,7 +165,7 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 
 5) Au sein de notre groupe, nous consacrons du temps à accroître la confiance et à approfondir nos relations
 
-## 9)  Partie d'un tout
+ ## 9)  Partie d'un tout
 
 
 1) Nous apprenons des autres initiatives du mouvement de la Transition
@@ -175,12 +175,12 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 3) Quand nous faisons quelque chose qui pourrait inspirer d'autres initiatives, nous partageons nos connaissances
 
 4) Nous participons à des conférences ou des événements (ou des webinaires en ligne ou des formations) proposés par le réseau  régional ou international
-## Notes
+ ## Notes
 **[1] (#note)** Nous = Transition network = Réseau international de la transition
 
 **[2] (#note)** Le Transition Network - est en train de mettre au point d'autres outils qui vous permettront de mesurer votre impact extérieur
 
 **[3] (#note)** = initiative de transition
-## Sources
+ ## Sources
 Traduit du [Transition Companion] (https://www.transitionnetwork.org/transition-companion) écrit par [Rob Hopkins] (https://www.transitionnetwork.org/about/people/staff-and-key-contributors). Traduction selon les termes de la licence Creative Commons BY-NC-SA.
 Publié par [Vincent Wattelet](mailto: vincent@reseautransition.be) via [Réseau Transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
