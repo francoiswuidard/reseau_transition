@@ -34,6 +34,7 @@ Voici une petite liste d'activités qu'un groupe pourrait inclure dans ses objec
 - Créer une atmosphère de confiance et de sécurité et apprendre à se connaître
 - Donner et recevoir de l'aide
 - Apprendre et partager des outils et des connaissances
+
 ##Comment notre groupe fonctionne-t-il ?**[1](#note)**
 Il vous faudra également vous mettre d'accord sur certaines règles de base concernant le fonctionnement du groupe. Cet exercice permet d'éviter les malentendus. N'hésitez pas à les coucher sur papier et à les amener à chaque réunion du groupe pour bien les garder à l'esprit. 
 
@@ -52,7 +53,7 @@ Comment gérer les désaccords ?
 Comment et quand revoir et changer les règles du groupe ? Une dernière chose  que nous conseillons de prendre en considération est de savoir de qui vous avez besoin dans le groupe :  Quelles sont les compétences demandées ? Quelles sont les voix qui devraient être représentées et qui ne le sont pas ?
 ## Notes
 **[1] (#note)** Voir également [la fiche outil Charte] (http://www.reseautransition.be/outils/ressources-gouvernance/creation-dun-charte/)
-**[1] (#note)** Voir également [la fiche outil inclusions - sortie - exclusion] (http://www.reseautransition.be/outils/ressources-gouvernance/inclusions-sorties-et-exclusion-dans-un-groupe/)
+**[2] (#note)** Voir également [la fiche outil inclusions - sortie - exclusion] (http://www.reseautransition.be/outils/ressources-gouvernance/inclusions-sorties-et-exclusion-dans-un-groupe/)
 ## Sources
 Traduit du [Transition Companion] (https://www.transitionnetwork.org/transition-companion) écrit par [Rob Hopkins] (https://www.transitionnetwork.org/about/people/staff-and-key-contributors). Traduction selon les termes de la licence Creative Commons BY-NC-SA.
 Publié par [Vincent Wattelet](mailto: vincent@reseautransition.be) via [Réseau Transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
