@@ -1,4 +1,4 @@
-# Bilan de santé : Comment se porte notre initiative de transition (IT) ?
+# Comment se porte notre initiative de transition (IT) ?
 
 Le bilan de santé a pour objectif d'aider les initiatives de Transition à :
 
