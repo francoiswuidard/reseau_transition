@@ -1,6 +1,6 @@
 # Ingrédients de la transition
 
- *Les ingrédients sont traduits du Transition Companion. Ils évolueront avec des exemples locaux au fur et à mesures. N'hésitez pas à nous faire part d'exemples cohérents avec ce qui est expliqué ! *
+*Les ingrédients sont traduits du Transition Companion. Ils évolueront avec des exemples locaux au fur et à mesures. N'hésitez pas à nous faire part d'exemples cohérents avec ce qui est expliqué !*
 
 Nous ([Transition Network] (https://www.transitionnetwork.org/) – réseau international) avons dressé une liste d'ingrédients pour chaque étape de la vie d'une initiative de Transition. Toutefois, soyons clairs... Il y a de nombreuses manières de se mettre en transition. Chaque initiative est différente et c'est ce qui rend l'exercice si  créatif et enthousiasmant. Imaginez la Transition comme une recette de cuisine. Vous savez qu'il est possible de mélanger  une multitude d'ingrédients pour préparer un gâteau. Mais chaque pâtissier le préparera d'une façon unique, en fonction de ses capacités, de sa culture et des ressources locales à sa disposition. 
 Toutefois, pour réussir un gâteau, il y a certaines étapes à respecter qui ont fait leurs preuves. On ne peut pas simplement jeter de la farine dans un bol, y ajouter un peu de beurre, mettre la préparation au four et s'attendre à en sortir un gâteau. Cela ne donnerait rien. 
