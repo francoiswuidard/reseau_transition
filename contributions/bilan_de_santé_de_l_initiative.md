@@ -1,6 +1,6 @@
-# Comment se porte notre initiative de transition (IT) ?
+# Comment se porte notre initiative de transition ?
 
-Le bilan de santé a pour objectif d'aider les initiatives de Transition à :
+Le bilan de santé a pour objectif d'aider les initiatives de Transition (IT) à :
 
 •	Réfléchir à tout ce que l'initiative a accompli et lancer la discussion sur ce qui fonctionne bien et sur ce qui pourrait être amélioré 
 
@@ -169,11 +169,11 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 
 4) Nous participons à des conférences ou des événements (ou des webinaires en ligne ou des formations) proposés par le réseau  régional ou international
 ## Notes
-**[1] (#note)** Nous = Transition network = Réseau international de la transition
+**[1](#note)** Nous = Transition network = Réseau international de la transition
 
-**[2] (#note)** Le Transition Network - est en train de mettre au point d'autres outils qui vous permettront de mesurer votre impact extérieur
+**[2](#note)** Le Transition Network - est en train de mettre au point d'autres outils qui vous permettront de mesurer votre impact extérieur
 
-**[3] (#note)** = initiative de transition
+**[3](#note)** = initiative de transition
 ## Sources
-Traduit du [Transition Companion] (https://www.transitionnetwork.org/transition-companion) écrit par [Rob Hopkins] (https://www.transitionnetwork.org/about/people/staff-and-key-contributors). Traduction selon les termes de la licence Creative Commons BY-NC-SA.
-Publié par [Vincent Wattelet](mailto: vincent@reseautransition.be) via [Réseau Transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
+Traduit du [Transition Companion](https://www.transitionnetwork.org/transition-companion) écrit par [Rob Hopkins](https://www.transitionnetwork.org/about/people/staff-and-key-contributors). Traduction selon les termes de la licence Creative Commons BY-NC-SA.
+Publié par [Vincent Wattelet](mailto: vincent@reseautransition.be) via [Réseau Transition Belgique](http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
