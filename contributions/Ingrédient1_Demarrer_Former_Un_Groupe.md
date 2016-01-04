@@ -4,7 +4,7 @@
 Comment former un groupe solide et jeter les bases d'une collaboration fructueuse ?
 ##DESCRIPTION BREVE
 En démarrant un groupe de Transition, nous nous imaginons souvent qu'il sera facile de travailler ensemble puisque le groupe s'est créé autour d'un objectif commun. Toutefois... 
-*Voir la description complète*
+
 ##SOLUTION
 Nous conseillons de mettre en place, dès le début, des structures claires et des procédures simples qui aideront votre groupe à travailler de façon amusante et efficace. Prenez le temps qu'il faut pour apprendre à vous connaître personnellement !
 
