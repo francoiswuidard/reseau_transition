@@ -2,8 +2,6 @@
 
 ## Défi
 Se pourrait-il qu'en trouvant le moyen de relier et d'intégrer les dimensions intérieures et extérieures du changement, la Transition puisse devenir autrement plus efficace ?
-![empirestate.gif]({{site.baseurl}}/contributions/empirestate.gif)
-
 
 ## Description
 Est-ce que le changement commence à l'extérieur et se fait ensuite ressentir à l'intérieur, ou commence-t-il à l'intérieur pour se propager à l'extérieur ? Les partisans des deux camps discutent et s'enrichissent mutuellement depuis les premiers jours du mouvement de la Transition.  Les deux perspectives sont vraies : l'extérieur façonne l'intérieur _et_ l'intérieur crée l'extérieur. De plus, certains affirmeront qu'en collaborant, nous entamons le travail de guérison des divisions et des blessures qui pourraient être à l'origine du chaos que nous connaissons. 
