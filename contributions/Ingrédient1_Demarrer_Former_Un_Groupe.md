@@ -10,7 +10,7 @@ Nous conseillons de mettre en place, dès le début, des structures claires et d
 
 *Des liens vers des outils, conseils, formations et possibilité de support sont présents dans la rubrique [« Nous vous aidons »] (http://www.reseautransition.be/support/) de notre site internet.* 
 ##DESCRIPTION COMPLETE par Sophy Banks 
-*« Ne doutez jamais du fait qu'un petit groupe de citoyens engagés et décidés peut changer le monde. En effet, il en a toujours été ainsi. »*, Margaret Mead
+*« Ne doutez jamais du fait qu'un petit groupe de citoyens engagés et décidés peut changer le monde. En effet, il en a toujours été ainsi. »* Margaret Mead
 
 En démarrant un groupe de Transition, nous nous imaginons souvent qu'il sera facile de travailler ensemble puisque le groupe s'est créé autour d'un objectif commun. Toutefois, chaque personne conçoit le fonctionnement d'un groupe de façon différente, sur base d'expériences passées, de croyances et en fonction de ses propres forces et capacités. Cet ingrédient ne prétend pas dicter la « bonne » façon de structurer un groupe, car chaque groupe va devoir trouver son propre mode de fonctionnement. Nous proposons malgré tout quelques idées et stratégies utiles.
 
@@ -19,7 +19,7 @@ Comment pourrions-nous maximiser les retombées positives (ce qui nous motive à
 ##Pourquoi le groupe existe-t-il ?
 La première chose à faire est de définir l'*objectif* du groupe. Vous pourriez choisir de décrire la mission que se donne le groupe dans une déclaration et d'y ajouter quelques phrases secondaires précisant les démarches à suivre. Voici, en guise d'exemple, la déclaration d'objectif d'Exmouth en Transition :
 
-*« Exmouth en Transition a pour objectif de renforcer la résilience locale d'Exmouth, de rendre la ville moins dépendante des combustibles fossiles et de réduire ses émissions de dioxyde de carbone en prônant une descente énergétique. * 
+«*Exmouth en Transition a pour objectif de renforcer la résilience locale d'Exmouth, de rendre la ville moins dépendante des combustibles fossiles et de réduire ses émissions de dioxyde de carbone en prônant une descente énergétique.* 
 
 *Pour ce faire, nous allons :*
 - *Mener des campagnes d'information et de sensibilisation à propos du mouvement de la Transition et de notre objectif*
