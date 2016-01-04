@@ -34,15 +34,16 @@ Vous pourriez, si vous en avez les moyens, décider de mener une étude annuelle
 - Soyez attentifs à la neutralité de vos questions : Restez le plus neutre possible afin de respecter une méthode scientifique et de rester impartial.
 - Testez-le avant de vous lancer : Demandez à quelques personnes de répondre au sondage afin de l'améliorer et de supprimer toute question qui n'aurait pas de sens...
 
-Rédiger un bon questionnaire est un art. On nous a tous déjà demandé de répondre à un questionnaire de 15 pages auquel nous n'avons jamais eu le courage de nous attaquer. Nous ne manquons pourtant pas de guides de qualité sur la façon de réaliser une bonne étude.1 On sait notamment que pour augmenter la fiabilité des données, il vaut mieux opter pour le porte-à-porte qu'arrêter les gens dans la rue. Choisissez soigneusement votre échantillon et veillez à ce qu'il soit le plus représentatif possible. Demandez à une personne ayant des connaissances en statistiques de traiter les résultats.  
+Rédiger un bon questionnaire est un art. On nous a tous déjà demandé de répondre à un questionnaire de 15 pages auquel nous n'avons jamais eu le courage de nous attaquer. Nous ne manquons pourtant pas de guides de qualité sur la façon de réaliser une bonne étude[1]. On sait notamment que pour augmenter la fiabilité des données, il vaut mieux opter pour le porte-à-porte qu'arrêter les gens dans la rue. Choisissez soigneusement votre échantillon et veillez à ce qu'il soit le plus représentatif possible. Demandez à une personne ayant des connaissances en statistiques de traiter les résultats.  
 
 ### Autres outils moins formels
-D'autres types d'outils de collecte de données ciblent davantage le comportement et l'attitude des gens. Cette approche est tout aussi utile que l'approche quantitative décrite ci-dessus. Des interviews semi-structurées, où divers sujets sont traités à l'aide de questions ouvertes, sont un excellent moyen de cerner ce que les personnes impliquées dans une initiative de Transition ou un projet particulier apprécient et qualifient d'efficace. Vous pourriez aussi organiser des exercices de groupe1 où chacun donnerait son avis sur les indicateurs permettant de mesurer le degré de réussite d'un projet. N'hésitez pas à revenir sur ces points à la fin du projet. 
+D'autres types d'outils de collecte de données ciblent davantage le comportement et l'attitude des gens. Cette approche est tout aussi utile que l'approche quantitative décrite ci-dessus. Des interviews semi-structurées, où divers sujets sont traités à l'aide de questions ouvertes, sont un excellent moyen de cerner ce que les personnes impliquées dans une initiative de Transition ou un projet particulier apprécient et qualifient d'efficace. Vous pourriez aussi organiser des exercices de groupe[2] où chacun donnerait son avis sur les indicateurs permettant de mesurer le degré de réussite d'un projet. N'hésitez pas à revenir sur ces points à la fin du projet. 
 
 Les sondages et questionnaires sont également un moyen d'aller à la rencontre des habitants de votre quartier. Par exemple, Helena en Transition, dans l'État du Montana, aux États-Unis, a effectué des sondages d'opinion avant d'entamer les activités de sensibilisation à la Transition. Le groupe s'est notamment entretenu avec des personnes-ressources pour comprendre ce qu'elles faisaient réellement et identifier les préoccupations des habitants de la région. Le résultat a ensuite déterminé la façon dont Helena en Transition a pensé ses activités. 
 
 ## Notes
-[1] Comme celui qui a été réalisé par l'université de Leeds, par exemple : http://tinyurl.com/237mppq
+[1] Comme celui qui a été réalisé par l'université de Leeds, par exemple : [http://tinyurl.com/237mppq](http://tinyurl.com/237mppq)
+[2] Vous trouverez un excellent guide sur l'organisation d'exercices de groupe sur [http://tinyurl.com/65rbv5t](http://tinyurl.com/65rbv5t)
 
 ## Sources 
 
