@@ -1,4 +1,4 @@
-# 6 MESURER ET ÉVALUER 
+# 6 Mesures, évaluations
 
 ## Défi
 
