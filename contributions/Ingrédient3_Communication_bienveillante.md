@@ -7,7 +7,6 @@ Un groupe dont les membres ne pourraient être à l'écoute les uns et les autre
 ## Description
 
 Qu'entendons-nous par respect ? Nous avons tous notre propre idée de ce qu'est un *manque* de respect, qu'il s'agisse de personnes que nous avons rencontrées, grossières, agressives et incapables d'être à l'écoute, ou de débats télévisés entre personnalités politiques...
-Voir la description complète...
 
 ## Solution
 À tous les niveaux de votre initiative, valorisez et cultivez l'empathie et le respect. Donnez une place centrale à la politesse et à la communication respectueuse dans vos réunions et projets. 
