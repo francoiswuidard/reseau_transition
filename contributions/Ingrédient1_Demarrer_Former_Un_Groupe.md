@@ -27,6 +27,7 @@ La première chose à faire est de définir l'*objectif* du groupe. Vous pourrie
 - *Encourager les acteurs concernés à appliquer des mesures visant une descente énergétique et à mener des actions pratiques dans le but d'atteindre les objectifs de la mission.  »*
 
 Le fait de se mettre d'accord sur la mission ou l'objectif de votre groupe vous aidera fortement à y voir plus clair dans tout ce qui va suivre : qui rejoint le groupe, comment travailler ensemble, à quoi consacrer son temps, quelles sont les priorités, etc. Certains groupes emmènent la déclaration d'objectif à chaque réunion pour garder constamment à l'esprit ce qu'ils ont envie de faire. Prévoyez d'inclure dans les objectifs un mot sur le fonctionnement du groupe, ainsi que sur ce que vous allez faire. 
+
 Voici une petite liste d'activités diverses qu'un groupe pourrait inclure dans ses objectifs. Prenez un peu de temps dès le début pour réfléchir à ce qui est pertinent pour votre groupe.
 
 - Mener des projets pratiques
@@ -59,6 +60,8 @@ Nous vous conseillons également de réfléchir aux personnes dont le groupe a b
 **[1] (#note)** Voir également [la fiche outil Charte] (http://www.reseautransition.be/outils/ressources-gouvernance/creation-dun-charte/)
 
 **[2] (#note)** Voir également [la fiche outil inclusions - sortie - exclusion] (http://www.reseautransition.be/outils/ressources-gouvernance/inclusions-sorties-et-exclusion-dans-un-groupe/)
+
 ## Sources
-Traduit du [Transition Companion] (https://www.transitionnetwork.org/transition-companion) écrit par [Rob Hopkins] (https://www.transitionnetwork.org/about/people/staff-and-key-contributors). Traduction selon les termes de la licence Creative Commons BY-NC-SA.
-Publié par [Vincent Wattelet](mailto: vincent@reseautransition.be) via [Réseau Transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
+Traduit du [Transition Companion](https://www.transitionnetwork.org/transition-companion) écrit par [Rob Hopkins](https://www.transitionnetwork.org/about/people/staff-and-key-contributors). Traduction par [Caroline Durieux](http://www.reseautransition.be/articles/author/caroline-durieux/) selon les termes de la licence Creative Commons BY-NC-SA.
+
+Publié par [Vincent Wattelet](mailto: vincent@reseautransition.be) via [Réseau Transition Belgique](http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
