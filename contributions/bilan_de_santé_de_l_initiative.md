@@ -137,7 +137,9 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 ## Notes
 
 **[1]** Nous = Transition network = Réseau international de la transition
+
 **[2]** Le Transition Network - est en train de mettre au point d'autres outils qui vous permettront de mesurer votre impact extérieur
+
 **[3]** = Initiative de transition
 
 ## Sources
