@@ -33,8 +33,7 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 6. Nous comprenons les chances et les défis liés à la Transition dans notre quartier
 7. Au moins une personne de notre groupe possède des connaissances approfondies de la Transition, car elle a suivi des formations, lu des livres ou parcouru les sites internet 
 
-![Fromage-Bilan_de_santé.png]({{site.baseurl}}/contributions/Fromage-Bilan_de_santé.png)
-
+![Fromage-Bilan_de_sante.png]({{site.baseurl}}/contributions/Fromage-Bilan_de_sante.png)
 
 ## 2. Renforcer votre groupe
 
@@ -50,6 +49,8 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 10. Des processus ont été mis en place pour intégrer de nouvelles personnes et permettre aux membres actuels de se retirer
 11. Nous avons pu gérer de façon satisfaisante les différences ou les conflits qui se sont présentés à nous
 
+![Fromage-Bilan_de_sante.png]({{site.baseurl}}/contributions/Fromage-Bilan_de_sante.png)
+
 ## 3. Réseaux et partenariats
 
 1. Nous entretenons des liens avec des organisations locales importantes comme les écoles, les entreprises, les comités de quartiers, les associations locales...
@@ -63,6 +64,8 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 9. (avancé) Nous possédons un plan stratégique sur les partenariats et les réseaux
 10.(avancé) Nous faisons la promotion du travail d'autres groupes dans notre région
 
+![Fromage-Bilan_de_sante.png]({{site.baseurl}}/contributions/Fromage-Bilan_de_sante.png)
+
 ## 4. Vision
 
 1. Nous partageons une vision commune des défis (comme la raréfaction des ressources, la pollution, les inégalités, la vulnérabilité économique) qui nous imposent d'imaginer l'avenir autrement
@@ -71,6 +74,8 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 4. Nous avons réfléchi et compris la façon d'inclure d'autres points de vue 
 5. (avancé) Nous comprenons la nécessité d'adopter un plan pour un avenir positif qui soit assez souple pour s'adapter à l'inconnu
 6. (avancé) Nous avons impliqué les habitants de notre quartier dans la recherche d'une vision positive de l'avenir
+
+![Fromage-Bilan_de_sante.png]({{site.baseurl}}/contributions/Fromage-Bilan_de_sante.png)
 
 ## 5. Réfléchir et célébrer
 
@@ -84,6 +89,8 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 
 *Si vous êtes à la recherche d'idées d'activités pour inclure davantage de détente et d'amusement dans votre groupe, nous vous invitons à aller lire les éléments d'aide de la Transition intérieure*
 
+![Fromage-Bilan_de_sante.png]({{site.baseurl}}/contributions/Fromage-Bilan_de_sante.png)
+
 ## 6. Projets pratiques
 
 1. Nous menons toute une série de projets pratiques bénéfiques à la population locale
@@ -92,6 +99,8 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 4. Nos projets sont encadrés par des structures juridiques et de gouvernance et nous comprenons nos responsabilités juridiques
 5. Nous avons les compétences nécessaires pour gérer et mettre en place efficacement nos projets
 6. Nous savons qui, dans notre quartier, a l'expertise et comment partir de là
+
+![Fromage-Bilan_de_sante.png]({{site.baseurl}}/contributions/Fromage-Bilan_de_sante.png)
 
 ## 7. Implication de la population locale
 
@@ -104,6 +113,8 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 7. Nous avons utilisé le forum ouvert et/ou des processus similaires pour recueillir des idées et accroître l'implication de la population locale
 8. Nous faisons la promotion et la publicité de nos événements et projets via les médias locaux adaptés
 
+![Fromage-Bilan_de_sante.png]({{site.baseurl}}/contributions/Fromage-Bilan_de_sante.png)
+
 ## 8. Transition intérieure
 
 1. Nous sommes conscients de la signification et de la profondeur émotionnelles des points soulevés par la Transition et nous savons comment les gérer
@@ -112,12 +123,16 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 4. Nous avons créé des structures de soutien pour nous-mêmes et pour les autres personnes impliquées dans la Transition (individuelles ou en groupe)
 5. Au sein de notre groupe, nous consacrons du temps à accroître la confiance et à approfondir nos relations
 
+![Fromage-Bilan_de_sante.png]({{site.baseurl}}/contributions/Fromage-Bilan_de_sante.png)
+
 ## 9. Partie d'un tout
 
 1. Nous apprenons des autres initiatives du mouvement de la Transition
 2. Nous avons établi un moyen de communication avec notre réseau régional, et/ou avec le réseau international
 3. Quand nous faisons quelque chose qui pourrait inspirer d'autres initiatives, nous partageons nos connaissances
 4. Nous participons à des conférences ou des événements (ou des webinaires en ligne ou des formations) proposés par le réseau régional ou international
+
+![Fromage-Bilan_de_sante.png]({{site.baseurl}}/contributions/Fromage-Bilan_de_sante.png)
 
 ## Notes
 
