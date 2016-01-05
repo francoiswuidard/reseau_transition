@@ -49,7 +49,7 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 10. Des processus ont été mis en place pour intégrer de nouvelles personnes et permettre aux membres actuels de se retirer
 11. Nous avons pu gérer de façon satisfaisante les différences ou les conflits qui se sont présentés à nous
 
-![Fromage-Bilan_de_sante.png](https://github.com/reseautransitionwb/reseau_transition/blob/master/contributions/Fromage-Bilan_de_sante-petit.png?raw=true)
+![Fromage-Bilan_de_sante.png](https://github.com/reseautransitionwb/reseau_transition/blob/master/contributions/Fromage12-Bilan_de_sante-petit.png?raw=true)
 
 ## 3. Réseaux et partenariats
 
@@ -64,7 +64,7 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 9. (avancé) Nous possédons un plan stratégique sur les partenariats et les réseaux
 10.(avancé) Nous faisons la promotion du travail d'autres groupes dans notre région
 
-![Fromage-Bilan_de_sante.png](https://github.com/reseautransitionwb/reseau_transition/blob/master/contributions/Fromage-Bilan_de_sante-petit.png?raw=true)
+![Fromage-Bilan_de_sante.png](https://github.com/reseautransitionwb/reseau_transition/blob/master/contributions/Fromage12-Bilan_de_sante-petit.png?raw=true)
 
 ## 4. Vision
 
