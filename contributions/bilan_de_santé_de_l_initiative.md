@@ -19,7 +19,7 @@ Le bilan de santé se concentre sur les premières étapes de la Transition, afi
 
 En petits groupes, parcourez les phrases en évaluant les réponses sur une échelle allant de 1 à 5. 1 signifie que « cette phrase ne correspond pas à notre IT » et 5 signifie que « cela est vrai dans notre cas et nous nous en sortons très bien dans ce domaine ». Ne bloquez pas sur une phrase : si une question ne s'applique pas à votre initiative ou n'a pas de sens à vos yeux, passez à la suivante. Si vous ne parvenez pas à vous mettre d'accord sur un résultat, choisissez soit d'inscrire la moyenne, soit de représenter la fourchette sur le diagramme. Souvenez-vous que les discussions que l'exercice suscite sont plus importantes que l'obtention d'un résultat élevé, ou d'un résultat tout court ! Indiquez sur le diagramme tous les moments où vous avez pris conscience de quelque chose, ainsi que les désaccords. En cherchant à comprendre le pourquoi des divergences, vous pourriez découvrir des aspects importants et intéressants de la Transition, ou de la façon dont votre groupe fonctionne. 
 
-![Fromage]({{site.baseurl}}/contributions/fromage.png)
+![Fromage](https://github.com/reseautransitionwb/reseau_transition/blob/master/contributions/fromage.png?raw=true)
 
 Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extrémité et le 1 au centre. Commencez par la question 1 et continuez avec la 2, 3, 4, etc. dans le sens des aiguilles d'une montre. Recommencez un nouveau diagramme pour chacun des 9 domaines. Au final, vous obtiendrez pour chaque domaine quelque chose qui ressemble un peu à l'exemple ci-dessous. Étant donné que certains domaines comportent plus de 8 questions, vous pouvez par exemple couper un quartier en deux. Vous pouvez choisir de mener cet exercice régulièrement (chaque année par exemple) pour comparer vos résultats. Il est en effet difficile de mesurer ou d'évaluer la Transition et cet exercice est une façon de le faire. N'hésitez pas à ajouter d'autres phrases qui pourraient vous aider à évaluer votre état de santé. Bon amusement !
 
@@ -33,7 +33,7 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 6. Nous comprenons les chances et les défis liés à la Transition dans notre quartier
 7. Au moins une personne de notre groupe possède des connaissances approfondies de la Transition, car elle a suivi des formations, lu des livres ou parcouru les sites internet 
 
-![Fromage-Bilan_de_sante.png]({{site.baseurl}}/contributions/Fromage-Bilan_de_sante.png)
+![Fromage-Bilan_de_sante.png](https://github.com/reseautransitionwb/reseau_transition/blob/master/contributions/Fromage-Bilan_de_sante.png?raw=true)
 
 ## 2. Renforcer votre groupe
 
