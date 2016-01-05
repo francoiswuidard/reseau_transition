@@ -134,7 +134,7 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 
 ![Fromage-Bilan_de_sante.png](https://github.com/reseautransitionwb/reseau_transition/blob/master/contributions/Fromage-Bilan_de_sante-petit.png?raw=true)
 
-Une version pdf de ce document est [disponible ici](https://github.com/reseautransitionwb/reseau_transition/raw/master/contributions/Bilan_de_sant%C3%A9_de_mon_initiative_Janvier_2015.pdf).
+**Une version pdf de ce document est [disponible ici](https://github.com/reseautransitionwb/reseau_transition/raw/master/contributions/Bilan_de_sant%C3%A9_de_mon_initiative_Janvier_2015.pdf).**
 
 ## Notes
 
