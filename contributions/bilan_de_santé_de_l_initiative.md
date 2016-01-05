@@ -33,7 +33,7 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 6. Nous comprenons les chances et les défis liés à la Transition dans notre quartier
 7. Au moins une personne de notre groupe possède des connaissances approfondies de la Transition, car elle a suivi des formations, lu des livres ou parcouru les sites internet 
 
-![Fromage - Bilan de santé.png]({{site.baseurl}}/contributions/Fromage - Bilan de santé.png)
+![Fromage-Bilan_de_santé.png]({{site.baseurl}}/contributions/Fromage-Bilan_de_santé.png)
 
 
 ## 2. Renforcer votre groupe
