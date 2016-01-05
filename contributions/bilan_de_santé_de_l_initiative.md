@@ -62,7 +62,7 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 7. Nous entretenons des liens avec divers types de groupes dans notre quartier (par exemple, différents au niveau des revenus, des origines ethniques, des générations,...)
 8. Nous avons pu gérer les difficultés qui sont apparues dans nos relations avec d'autres groupes (dans le cas où cela s'applique)
 9. (avancé) Nous possédons un plan stratégique sur les partenariats et les réseaux
-10.(avancé) Nous faisons la promotion du travail d'autres groupes dans notre région
+10. (avancé) Nous faisons la promotion du travail d'autres groupes dans notre région
 
 ![Fromage-Bilan_de_sante.png](https://github.com/reseautransitionwb/reseau_transition/blob/master/contributions/Fromage12-Bilan_de_sante-petit.png?raw=true)
 
@@ -104,7 +104,7 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 
 ## 7. Implication de la population locale
 
-1.Nous savons qui habite dans notre région, comment communiquer avec ces personnes et les impliquer de façon sensée dans notre groupe/nos projets
+1. Nous savons qui habite dans notre région, comment communiquer avec ces personnes et les impliquer de façon sensée dans notre groupe/nos projets
 2. Nous consacrons du temps pour être à l'écoute de ce qui est important pour les habitants de notre quartier
 3. Nous comprenons les préoccupations et problèmes actuels locaux et nous pouvons y associer un message de Transition
 4. Nous avons recours à divers styles et types de campagnes de sensibilisation et de méthodes d'implication (a) pour des personnes qui se situent à différentes étapes du changement (b) pour différents groupes culturels et démographiques (C) sur des sujets différents (d) pour des personnes qui s'impliquent avec la tête, le cœur ou les mains
