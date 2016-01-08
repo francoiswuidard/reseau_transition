@@ -57,9 +57,9 @@ Voici quelques règles que vous pourriez soumettre à la réflexion du groupe lo
 Nous vous conseillons également de réfléchir aux personnes dont le groupe a besoin. Quelles sont les compétences demandées ? Quelles voix devraient être représentées et ne le sont pas ?
 
 ## Notes
-**[1] (#note)** Voir également [la fiche outil Charte] (http://www.reseautransition.be/outils/ressources-gouvernance/creation-dun-charte/)
+**[1](#note)** Voir également [la fiche outil Charte] (http://www.reseautransition.be/outils/ressources-gouvernance/creation-dun-charte/)
 
-**[2] (#note)** Voir également [la fiche outil inclusions - sortie - exclusion] (http://www.reseautransition.be/outils/ressources-gouvernance/inclusions-sorties-et-exclusion-dans-un-groupe/)
+**[2](#note)** Voir également [la fiche outil inclusions - sortie - exclusion] (http://www.reseautransition.be/outils/ressources-gouvernance/inclusions-sorties-et-exclusion-dans-un-groupe/)
 
 ## Sources
 Traduit du [Transition Companion](https://www.transitionnetwork.org/transition-companion) écrit par [Rob Hopkins](https://www.transitionnetwork.org/about/people/staff-and-key-contributors). Traduction par [Caroline Durieux](http://www.reseautransition.be/articles/author/caroline-durieux/) selon les termes de la licence Creative Commons BY-NC-SA.
