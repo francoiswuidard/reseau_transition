@@ -36,7 +36,7 @@ Pour y parvenir, le plus simple est d'inviter les personnes à fermer les yeux e
 
 *Autre conséquence de ces ateliers : des membres de la Transition travaillent maintenant avec la nouvelle personne en charge des questions climatiques au niveau communal pour recruter de nouveaux volontaires qui réaliseront un travail d'audit sur l'efficacité énergétique des logements. Dix d'entre eux, tous formés selon les normes NVQ, parcourront la ville, offrant des conseils gratuits aux habitants sur la façon de réduire leur facture énergétique. Dernier effet à noter : un des partis politiques au niveau communal (que nous ne nommerons pas) a demandé aux membres de Taunton en Transition de les conseiller sur son programme électoral pour les élections communales de 2011.*
 
-<a id="note">
+<a id="note"> </a>
 ## Notes
 
 [1] Hogson, J. & Hopkins, R. (2010) Transition in Action: Totnes and District 2030. An Energy Descent Action Plan. Transition Town Totnes / Green Books
