@@ -17,7 +17,7 @@ Plus les effets de vos projets gagneront en visibilité, plus il sera important 
 
 Dans l'effervescence des premiers pas d'une initiative de Transition, mesurer les progrès réalisés n'est généralement pas la première priorité. Il est toutefois très utile de trouver dès le début une manière simple de collecter des données. Nombreux sont les livres sur l'audit de la durabilité et les mesures de l'impact qui pourraient déconcerter tous ceux qui n'ont pas l'âme d'un expert-comptable. Évidemment, vous vous lanceriez dans un travail titanesque si vous tentiez de mesurer la quantité exacte de CO2 qui n'a pas abouti dans l'atmosphère grâce aux efforts de votre initiative, mais votre groupe peut tout de même collecter des données de diverses façons. Commençons par les plus simples pour ensuite aborder les plus compliquées...
 
-###Récoltez des données simples lors des événements et des projets
+### Récoltez des données simples lors des événements et des projets
 Gardez à jour un tableau reprenant vos événements et le nombre de personnes présentes. Notez les autres résultats aisément quantifiables de vos projets, comme la quantité d'arbres plantés, le nombre d'étudiants qui ont travaillé avec l'école du quartier, les nouveaux potagers collectifs, etc. Vous pourriez également, après une formation ou un événement clé, mener une enquête de satisfaction auprès des participants, grâce à un formulaire simple, pour récolter leur avis sur certaines propositions. Demandez aux différents groupes d'enregistrer les fruits de leur travail. De plus, même s'il ne s'agit pas de mesures à proprement parler, gardez une trace en images de votre processus de Transition. 
 
 ### Utilisez des outils permettant de récolter des données
