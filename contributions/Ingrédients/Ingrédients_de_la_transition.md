@@ -2,7 +2,7 @@
 
 *Les ingrédients sont traduits du Transition Companion. Ils évolueront avec des exemples locaux au fur et à mesure. N'hésitez pas à nous faire part d'exemples cohérents avec ce qui est expliqué !*
 
-<img src="/images/ingredients_larder_small-300x212.jpg" style="float: left;" class="float-left" height="212" width="300">
+<img src="https://github.com/reseautransitionwb/reseau_transition/blob/master/contributions/Ingr%C3%A9dients/images/ingredients_larder_small-300x212.jpg?raw=true" style="float: left;" class="float-left" height="212" width="300">
 
 Nous ([Transition Network](https://www.transitionnetwork.org/) – Réseau International de Transition) avons dressé une liste d'ingrédients pour chaque étape de la vie d'une initiative de Transition. Toutefois, soyons clairs... les manières de se mettre en Transition sont nombreuses.
 
