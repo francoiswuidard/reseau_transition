@@ -42,7 +42,7 @@ D'autres types d'outils de collecte de données ciblent davantage le comportemen
 
 Les sondages et questionnaires sont également un moyen d'aller à la rencontre des habitants de votre quartier. Par exemple, Helena en Transition, dans l'État du Montana, aux États-Unis, a effectué des sondages d'opinion avant d'entamer les activités de sensibilisation à la Transition. Le groupe s'est notamment entretenu avec des personnes-ressources pour comprendre ce qu'elles faisaient réellement et identifier les préoccupations des habitants de la région. Le résultat a ensuite déterminé la façon dont Helena en Transition a pensé ses activités. 
 
-<a id="note">
+<a id="note">  </a>
 ## Notes
 
 [1] Comme celui qui a été réalisé par l'université de Leeds, par exemple 
