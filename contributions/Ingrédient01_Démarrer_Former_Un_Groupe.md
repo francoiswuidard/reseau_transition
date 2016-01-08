@@ -36,7 +36,7 @@ Voici une petite liste d'activités diverses qu'un groupe pourrait inclure dans 
 - Donner et recevoir de l'aide
 - Apprendre et partager des outils et des connaissances
 
-##Comment notre groupe fonctionne-t-il ?**[1](#note)**
+##Comment notre groupe fonctionne-t-il ? **[1](#note)**
 Il vous faudra également vous mettre d'accord sur certaines règles de base concernant le fonctionnement du groupe. Cet exercice permet d'éviter les malentendus. N'hésitez pas à les coucher sur papier et à les amener à chaque réunion du groupe pour bien les garder à l'esprit. 
 
 La plupart des groupes mettent à jour et ajoutent des règles en cours de route. Voici à quoi pourraient ressembler certaines règles de départ :
@@ -57,9 +57,9 @@ Voici quelques règles que vous pourriez soumettre à la réflexion du groupe lo
 Nous vous conseillons également de réfléchir aux personnes dont le groupe a besoin. Quelles sont les compétences demandées ? Quelles voix devraient être représentées et ne le sont pas ?
 
 ## Notes
-**[1](#note)** Voir également [la fiche outil Charte] (http://www.reseautransition.be/outils/ressources-gouvernance/creation-dun-charte/)
+* **[1](#note)** Voir également [la fiche outil Charte] (http://www.reseautransition.be/outils/ressources-gouvernance/creation-dun-charte/)
 
-**[2](#note)** Voir également [la fiche outil inclusions - sortie - exclusion] (http://www.reseautransition.be/outils/ressources-gouvernance/inclusions-sorties-et-exclusion-dans-un-groupe/)
+* **[2](#note)** Voir également [la fiche outil inclusions - sortie - exclusion] (http://www.reseautransition.be/outils/ressources-gouvernance/inclusions-sorties-et-exclusion-dans-un-groupe/)
 
 ## Sources
 Traduit du [Transition Companion](https://www.transitionnetwork.org/transition-companion) écrit par [Rob Hopkins](https://www.transitionnetwork.org/about/people/staff-and-key-contributors). Traduction par [Caroline Durieux](http://www.reseautransition.be/articles/author/caroline-durieux/) selon les termes de la licence Creative Commons BY-NC-SA.
