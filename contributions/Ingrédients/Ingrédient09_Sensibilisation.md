@@ -53,7 +53,7 @@ Voici d'autres propositions qui pourraient vous intéresser :
 
 Il est important de se rendre compte qu'en évoluant, votre initiative de Transition va changer sa façon de concevoir la sensibilisation. Au cours des deux premières des cinq étapes décrites dans ce livre, « démarrer » et « renforcer », parler du pic pétrolier et du changement climatique constitue un catalyseur puissant et vous permet d'aborder de façon efficace la problématique de la résilience de votre quartier. Une fois arrivés à la quatrième étape, « construction », vous vous rendrez compte que la plupart des habitants de votre quartier se seront fait une idée sur la question et qu'insister sur ce point crée davantage de division que d'engagement. Il pourrait être alors plus productif de mettre l'accent sur la résilience économique et la mise en place de nouveaux projets et de nouvelles entreprises.
 
-<a id="note">
+<a id="note"> </a>
 ## Notes
 
 [1] DiClemente, C.C. (2003) Addiction and change: How addictions develop and addicted people recover. Guilford Press.
