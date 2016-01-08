@@ -30,7 +30,8 @@ Vous pourriez, si vous en avez les moyens, décider de mener une étude annuelle
 
 - Optez pour la version la plus courte possible : nous sommes tous très occupés et avons mieux à faire que de lire des questions interminables. 
 - Identifiez à l'avance ce que vous voulez absolument savoir : Pourquoi réalisez-vous ce sondage ? Que souhaitez-vous en tirer ? 
-- Exprimez-vous simplement : Rédigez-le dans un français simple et accessible. - - Évitez les questions complexes, longues ou trop abstraites. 
+- Exprimez-vous simplement : Rédigez-le dans un français simple et accessible. 
+- Évitez les questions complexes, longues ou trop abstraites. 
 - Soyez attentifs à la neutralité de vos questions : Restez le plus neutre possible afin de respecter une méthode scientifique et de rester impartial.
 - Testez-le avant de vous lancer : Demandez à quelques personnes de répondre au sondage afin de l'améliorer et de supprimer toute question qui n'aurait pas de sens...
 
