@@ -14,11 +14,11 @@ Les initiatives de Transition n'ont jamais été pensées pour abattre seules to
 
 **Transition et partenariat**
 
-Dave Prescott, de Hay-on-Wye en Transition, aborde la question des partenariats de son initiative dans un entretien publié sur le site internet du Réseau de permaculture de la région centrale du Pays de Galles[1]. Il donne comme exemple une journée consacrée à la mobilité douce que son initiative a mise sur pied avec la collaboration des conseils d’Herefordshire et Powys, l'organisation pour la mobilité douce Sustrans, les entreprises locales et les groupes environnementaux. Hay-on-Wye en Transition a également travaillé avec la Chambre de commerce locale. Voici comment Dave perçoit ce partenariat :
+Dave Prescott, de Hay-on-Wye en Transition, aborde la question des partenariats de son initiative dans un entretien publié sur le site internet du Réseau de permaculture de la région centrale du Pays de Galles<sup>[1](#note)</sup>. Il donne comme exemple une journée consacrée à la mobilité douce que son initiative a mise sur pied avec la collaboration des conseils d’Herefordshire et Powys, l'organisation pour la mobilité douce Sustrans, les entreprises locales et les groupes environnementaux. Hay-on-Wye en Transition a également travaillé avec la Chambre de commerce locale. Voici comment Dave perçoit ce partenariat :
 
 _« Pour moi, il est clair qu’avec un groupe de six personnes, on ne peut pas atteindre grand-chose. En revanche, si nous collaborons avec les groupes existants et si, sur le long terme, nous en encourageons d’autres à reconnaître l'existence et le potentiel de la Transition, alors, nous avons une chance d'être à l'origine d'un changement vraiment significatif. »_
 
-Les initiatives individuelles ne sont pas les seules à tirer avantage des partenariats. En novembre 2009, une conférence d’un jour intitulée « Transition Nord » a été organisée à Slaithwaite dans le Yorkshire. Elle rassemblait les groupes de Transition du nord de l'Angleterre[2]. L’événement, né d’un partenariat avec Co-operative Group et Co-operatives UK, est le fruit d'une collaboration dynamique entre des organisations dont la philosophie et les projets comportent de nombreux points communs.
+Les initiatives individuelles ne sont pas les seules à tirer avantage des partenariats. En novembre 2009, une conférence d’un jour intitulée « Transition Nord » a été organisée à Slaithwaite dans le Yorkshire. Elle rassemblait les groupes de Transition du nord de l'Angleterre<sup>[2](#note)</sup>. L’événement, né d’un partenariat avec Co-operative Group et Co-operatives UK, est le fruit d'une collaboration dynamique entre des organisations dont la philosophie et les projets comportent de nombreux points communs.
 
 Dans votre région, beaucoup d’organisations, même si elles ne s’alignent pas clairement sur la Transition, couvriront certains des projets que vous menez. Plus le partenariat est inattendu, plus les rencontres sont intéressantes, les interactions riches et les nouveaux contacts nombreux. Proposez de présenter la Transition à une grande variété de groupes locaux et adaptez votre discours, autant que vous le pouvez, à leurs intérêts. Je me suis un jour adressé à un Institut local de la femme. Avant mon intervention, elles discutaient du faible prix du lait et des répercussions négatives sur la vie des producteurs. J’ai donc décidé de partir de l'exemple de la production laitière pour parler de la relocalisation et de la mondialisation.
 
@@ -26,6 +26,7 @@ Utilisez certains événements clés pour rendre ce genre de liens visibles et r
 
 Même si vos liens sont totalement informels, il est important que les organisations partenaires comprennent ce qu'elles font. Des malentendus pourraient rapidement s'avérer néfastes et pénibles à rectifier. Il est important que votre initiative construise son réseau de manière intelligente, car pour réussir, la Transition doit, bien plus qu'à l'heure actuelle encore, s'associer à des organisations aux profils bien différents. 
 
+<a id="note">
 ## Notes
 
 [1]  http://tinyurl.com/6ealg7u
