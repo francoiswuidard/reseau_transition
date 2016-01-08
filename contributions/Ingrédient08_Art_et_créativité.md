@@ -9,7 +9,7 @@ Inventer une fiction peut aider les personnes à imaginer une réalité future. 
 ## Solution
 L'art et la créativité peuvent nous faire changer d'avis sur ce qui est possible dans ce monde.  Ne sous-estimez jamais cette valeur et ce pouvoir. Voyez grand, soyez audacieux et gardez le sens de la fête. 
 
-##Description complète
+## Description complète
 
 *Avec la contribution de Lucy Neal*
 
@@ -31,7 +31,7 @@ Tooting en Transition, avec d'autres initiatives de Transition à Londres, a cr�
 
 Parfois, l'art permet de sensibiliser directement : Shaftesbury en Transition a participé à l'éco-cirque « Point de non-retour », un spectacle avec musique, artisanat et clowns dont le but était de parler du changement climatique à un jeune public<sup>[1](#note)</sup>.
 
-###Transition en action : le Carnaval Attrape déchets
+### Transition en action : le Carnaval Attrape déchets
 *Plus aucune voiture ne pouvait circuler dans la rue principale de Tooting quand le Carnaval Attrape déchet s'est invité en ville ! En juillet 2010, plus de 800 participants d'écoles, de groupes et de clubs de la région ont créé un carnaval unique qui s'est paré, quasi exclusivement, de déchets ménagers. Plus d'un million de bouteilles et de sacs en plastique, un demi-million de paquets de chips, une demi-tonne d'osier renouvelable et une demi-tonne d'autres matériaux recyclés ont été récoltés en six mois pour donner vie à ce merveilleux spectacle.*
 
 *Les organisateurs n'en revenaient pas que tout se soit passé aussi facilement et conformément à ce qui avait été prévu. Lucy Neal, coprésidente de Tooting en Transition, a déclaré en s'adressant à un journaliste du JT d'ITV Londres : « On a peut-être l'impression que seul, on n'a pas d'importance, mais quand on se lie aux gens du quartier, on prend conscience de notre force et du fait que nous pouvons vraiment faire la différence. Nous sommes plus que ravis de la facilité avec laquelle tout s'est mis en place et surpris de toute l'aide que nous avons reçue des habitants de Tooting »*
