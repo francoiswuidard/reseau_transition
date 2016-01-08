@@ -1,4 +1,4 @@
-# Les partenariats 
+# 11 Les partenariats 
 
 ## Défi
 Comment éviter à votre initiative de croire qu'elle peut s’en sortir sans se faire aider par, ou collaborer avec, d’autres organisations... une démarche qui pourrait l’isoler et diminuer l’impact qu’elle aurait pu avoir ?
