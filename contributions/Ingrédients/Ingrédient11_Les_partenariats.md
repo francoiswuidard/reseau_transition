@@ -26,7 +26,7 @@ Utilisez certains événements clés pour rendre ce genre de liens visibles et r
 
 Même si vos liens sont totalement informels, il est important que les organisations partenaires comprennent ce qu'elles font. Des malentendus pourraient rapidement s'avérer néfastes et pénibles à rectifier. Il est important que votre initiative construise son réseau de manière intelligente, car pour réussir, la Transition doit, bien plus qu'à l'heure actuelle encore, s'associer à des organisations aux profils bien différents. 
 
-<a id="note">
+<a id="note"> </a>
 ## Notes
 
 [1]  http://tinyurl.com/6ealg7u
