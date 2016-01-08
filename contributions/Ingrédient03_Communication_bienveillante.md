@@ -33,7 +33,8 @@ Tirées du World Café ([http://theworldcafe.com](http://theworldcafe.com))
 
 En résumé, la communication bienveillante est assez simple. Nous savons tous ce que ça fait de se *sentir* respecté. Quand quelqu'un nous écoute, nous nous sentons bien, alors que nous sommes frustrés face à quelqu'un d'impoli ou de provocateur. Si nous comprenons ce qui nous fait du bien et si nous pouvons nous en souvenir et nous assurer que les personnes que nous rencontrons se sentent bien aussi, l'initiative de Transition ne pourra que s'embellir.
 
-<a id="note">## Notes
+<a id="note"> 
+## Notes
 
 [1] Sapiro, V. (1999) 'Considering political civility historically: a case study of the United States'. Document non publié, Société internationale pour la psychologie politique.
 
