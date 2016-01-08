@@ -1,16 +1,18 @@
 # DÉMARRER : 1 Se rassembler et former un groupe
 *Ces premiers ingrédients vous aident à transformer votre idée ou envie de Transition en un projet qui a de bonnes chances d'aboutir.* 
-##DÉFI	
+
+## DÉFI	
 Comment former un groupe solide et jeter les bases d'une collaboration fructueuse ?
-##DESCRIPTION BREVE
+
+## DESCRIPTION BREVE
 En démarrant un groupe de Transition, nous nous imaginons souvent qu'il sera facile de travailler ensemble puisque le groupe s'est créé autour d'un objectif commun. Toutefois... 
 
-##SOLUTION
+## SOLUTION
 Nous conseillons de mettre en place, dès le début, des structures claires et des procédures simples qui aideront votre groupe à travailler de façon amusante et efficace. Prenez le temps qu'il faut pour apprendre à vous connaître personnellement !
 
 *Des liens vers des outils, conseils, formations et possibilité de support sont présents dans la rubrique [« Nous vous aidons »](http://www.reseautransition.be/support/) de notre site internet.* 
 
-##DESCRIPTION COMPLETE 
+## DESCRIPTION COMPLETE 
 par Sophy Banks 
 
 *« Ne doutez jamais du fait qu'un petit groupe de citoyens engagés et décidés peut changer le monde. En effet, il en a toujours été ainsi. »* Margaret Mead
