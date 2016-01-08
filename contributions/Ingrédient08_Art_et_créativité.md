@@ -13,13 +13,13 @@ L'art et la créativité peuvent nous faire changer d'avis sur ce qui est possib
 
 *Avec la contribution de Lucy Neal*
 
-*Le jour est venu où une simple carotte, observée avec un regard neuf, déclenchera une révolution.**Paul Cézanne
+*Le jour est venu où une simple carotte, observée avec un regard neuf, déclenchera une révolution.* Paul Cézanne
 
 *L'Histoire se souvient des rois et des guerriers, car ils ont détruit ; l'Art se souvient de ceux qui créent.* William Morris
 
 La Transition dépend de notre imagination. Une réalité différente peut nous sembler plus familière si on essaie tout d'abord de l'imaginer et les activités artistiques réussissent avec brio à stimuler notre confiance. Nos initiatives prennent vie en découvrant ces nouvelles possibilités, souvent inattendues et étonnantes.  
 
-*Les Hommes sont capables d'un tour de magie unique : créer des réalités à partir de leurs rêves, en les façonnant d'abord dans leur esprit.... Dès que nous avons l'impression qu'il est possible de vivre dans un autre monde, plus souhaitable, nous commençons à modifier nos comportements, comme si ce monde avait déjà pris vie, comme si nous y étions déjà. Le rêve devient alors une force invisible qui nous pousse vers l'avant. De cette façon, le rêve devient réalité. Le simple fait de l'imaginer le rend réel... et ce qui était possible dans l'art devient pensable dans la réalité. *Brian Eno
+*Les Hommes sont capables d'un tour de magie unique : créer des réalités à partir de leurs rêves, en les façonnant d'abord dans leur esprit.... Dès que nous avons l'impression qu'il est possible de vivre dans un autre monde, plus souhaitable, nous commençons à modifier nos comportements, comme si ce monde avait déjà pris vie, comme si nous y étions déjà. Le rêve devient alors une force invisible qui nous pousse vers l'avant. De cette façon, le rêve devient réalité. Le simple fait de l'imaginer le rend réel... et ce qui était possible dans l'art devient pensable dans la réalité. * Brian Eno
 
 En nourrissant l'imaginaire des gens, l'art offre un terrain de jeu partagé, un dénominateur commun, qui que nous soyons, où que nous soyons. À une époque où nous aurions tendance à fermer nos esprits et à craindre le changement, l'art nous fait vivre des expériences partagées agréables et nous propose un espace où l'on peut répéter de nouvelles idées. Il génère de l'empathie et un sentiment d'appartenance. Il jette des ponts entre les générations, les cultures et les différentes couches de la société. Il peut porter l'enthousiasme d'une initiative de Transition, encourager, motiver, tout en nous aidant à lâcher prise ou à tourner la page.
 
