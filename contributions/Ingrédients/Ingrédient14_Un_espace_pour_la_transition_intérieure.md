@@ -38,7 +38,7 @@ Le site internet [www.greatturningtimes.org](www.greatturningtimes.org) peut êt
 
 Une partie des outils jugés très utiles par les groupes Cœur et âme viennent de Joanna Macy : [www.joannamacy.net](www.joannamacy.net)
 
-<a id="note">
+<a id="note"> </a>
 ## Notes
 
 [1] Roszak, T., Gomes, M.E & Kanner, A.D. (eds) (1995) Ecopsychology: Restoring the Earth, healing the mind. Sierra Club Books.
