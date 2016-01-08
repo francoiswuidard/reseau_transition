@@ -46,6 +46,7 @@ Les sondages et questionnaires sont également un moyen d'aller à la rencontre 
 ## Notes
 
 [1] Comme celui qui a été réalisé par l'université de Leeds, par exemple 
+
 [http://tinyurl.com/237mppq](http://tinyurl.com/237mppq)
 
 [2] Vous trouverez un excellent guide sur l'organisation d'exercices de groupe sur [http://tinyurl.com/65rbv5t](http://tinyurl.com/65rbv5t)
