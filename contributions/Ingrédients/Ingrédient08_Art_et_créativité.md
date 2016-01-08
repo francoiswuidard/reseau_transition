@@ -45,7 +45,7 @@ Un concept attrayant vous permettra de toucher un public plus large. Un bon desi
 
 Beaucoup d'initiatives de Transition mettent sur pied leur propre groupe artistique pour enrichir le travail de l'organisation. Le groupe artistique de Totnes en Transition possède une page internet et celui de Romsey en Transition est parvenu à décrocher un financement pour soutenir le rôle de l'art dans leur initiative. Oswestry en Transition a lancé un projet nommé Footfall qui permet aux enfants du quartier de s'exprimer par l'art et d'exposer leurs œuvres dans les magasins vides de la région.
 
-<a id="note">
+<a id="note"> </a>
 ## Notes
 
 [1] Vous pouvez visionner un film en anglais sur l'Éco-cirque sur [www.transitiontownshaftesbury.org.uk/index.php?n=Main.Video](www.transitiontownshaftesbury.org.uk/index.php?n=Main.Video)
