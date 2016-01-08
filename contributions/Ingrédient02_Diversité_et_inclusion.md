@@ -58,15 +58,15 @@ Que nous parlions de Liège, d'Ixelles, de Rochefort ou de Soignies, les caract�
 <a id="note">
 ## Notes
 
-[1] Khan, N. (2010) "From Big Society to Little Society and back again, and how diversity can help..." Une présentation donnée lors du Cultural Leadership Seminar organisé par le Huddelsfield Creative Arts Network le 18 novembre 2010. Le texte en entier est disponible en anglais sur www.naseemkhan.com/huddersfield.doc.
+[1] Khan, N. (2010) "From Big Society to Little Society and back again, and how diversity can help..." Une présentation donnée lors du Cultural Leadership Seminar organisé par le Huddelsfield Creative Arts Network le 18 novembre 2010. Le texte en entier est disponible en anglais sur [www.naseemkhan.com/huddersfield.doc](www.naseemkhan.com/huddersfield.doc).
 
-[2] CABE (2005) Decent Parks? Decent Behaviour? The link between the quality of parks and user behaviour. Commission pour l'architecture et l'environnement urbain. Disponible sur http://tinyurl.com/4wgpl4u.
+[2] CABE (2005) Decent Parks? Decent Behaviour? The link between the quality of parks and user behaviour. Commission pour l'architecture et l'environnement urbain. Disponible sur [http://tinyurl.com/4wgpl4u](http://tinyurl.com/4wgpl4u).
 
 [3] Williams, C. & Windebank, J. (2002) "The uneven geographies of informal economic activities: a case study of two British cities" Work, Employment and Society, 16(2): 231-50.
 
-[4] Cohen, D.M.K. (2010) Reaching out for resilience: exploring approaches to inclusion and diversity in the Transition movement. Master en sciences, université de Strathclyde, Glasgow. Voir http://tinyurl.com/3ppcm4a.
+[4] Cohen, D.M.K. (2010) Reaching out for resilience: exploring approaches to inclusion and diversity in the Transition movement. Master en sciences, université de Strathclyde, Glasgow. Voir [http://tinyurl.com/3ppcm4a](http://tinyurl.com/3ppcm4a).
 
-[5] http://www.reseautransition.be/formation/
+[5] [http://www.reseautransition.be/formation/](http://www.reseautransition.be/formation/)
 
 ## Sources
 Traduit du [Transition Companion](https://www.transitionnetwork.org/transition-companion) écrit par [Rob Hopkins](https://www.transitionnetwork.org/about/people/staff-and-key-contributors). Traduction par [Caroline Durieux](http://www.reseautransition.be/articles/author/caroline-durieux/) selon les termes de la licence Creative Commons BY-NC-SA.
