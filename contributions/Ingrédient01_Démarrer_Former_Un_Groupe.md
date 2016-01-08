@@ -56,6 +56,7 @@ Voici quelques règles que vous pourriez soumettre à la réflexion du groupe lo
 
 Nous vous conseillons également de réfléchir aux personnes dont le groupe a besoin. Quelles sont les compétences demandées ? Quelles voix devraient être représentées et ne le sont pas ?
 
+<a id="note">
 ## Notes
 * **[1](#note)** Voir également [la fiche outil Charte] (http://www.reseautransition.be/outils/ressources-gouvernance/creation-dun-charte/)
 
