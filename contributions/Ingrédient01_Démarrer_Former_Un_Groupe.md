@@ -61,6 +61,7 @@ Nous vous conseillons également de réfléchir aux personnes dont le groupe a b
 
 <a id="note">
 ## Notes
+
 **[1]** NdT : en cours de traduction, mais disponible en anglais sur [www.transitionnetwork.org/ingredients](http://www.transitionnetwork.org/ingredients)
 
 ## Sources
