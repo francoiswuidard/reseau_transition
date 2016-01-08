@@ -55,7 +55,7 @@ La Fondation britannique des volontaires pour la préservation de l'environnemen
 
 Que nous parlions de Liège, d'Ixelles, de Rochefort ou de Soignies, les caractéristiques de la diversité restent similaires. Chaque région se définit par une diversité de perspectives, de compétences, d'histoires et d'expériences, et compte des structures de pouvoir plus dominantes que d'autres. La Transition peut commencer par construire des voies nouvelles d'engagement local ouvertes à tous, au-delà des différences, et devrait chercher à se doter des compétences et des outils lui permettant de mettre la diversité et l'inclusion au cœur de son travail. 
 
-<a id="note">
+<a id="note"> </a>
 ## Notes
 
 [1] Khan, N. (2010) "From Big Society to Little Society and back again, and how diversity can help..." Une présentation donnée lors du Cultural Leadership Seminar organisé par le Huddelsfield Creative Arts Network le 18 novembre 2010. Le texte en entier est disponible en anglais sur [www.naseemkhan.com/huddersfield.doc](www.naseemkhan.com/huddersfield.doc).
