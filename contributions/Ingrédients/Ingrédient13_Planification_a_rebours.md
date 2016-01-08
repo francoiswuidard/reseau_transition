@@ -24,7 +24,7 @@ La planification à rebours a joué un rôle clé dans l'élaboration du Plan d'
 
 L'exercice de la réunion scolaire en 2030 peut également vous permettre d'intégrer agréablement la planification à rebours et de lui donner vie. Cet exercice a vu le jour lors du lancement du processus qui a mené à l'élaboration du Plan d'action<sup>[3](#note)</sup> de TTT. Quatre acteurs endossent le rôle de personnages qui sont tous allés à l'école secondaire locale en 2010. Le public est ensuite divisé en quatre groupes et reçoit des cartes précisant un aspect différent de la vie des personnages depuis la fin de l'école. Le public partage ses connaissances sur le personnage et ensuite, après une discussion au sein des quatre groupes, les acteurs mettent en scène une réunion scolaire fictive où les personnages se revoient et parlent de leur vie. Si le jeu est bien fait et que les acteurs sont bons, cet exercice est motivant et riche en émotions. 
 
-<a id="note">
+<a id="note"> </a>
 ## Notes
 
 [1] NdT : Livre non traduit en français. Le titre original est The Natural Step for Communities: How cities and towns can change to sustainable practises
