@@ -41,7 +41,7 @@ Que faire si la Transition ne démarre pas vraiment, malgré tous les efforts de
 
 Dans _Le manuel de Transition_<sup>[1](#note)</sup>, il a été proposé que le groupe initiateur « planifie dès le départ sa dissolution » et certaines initiatives, comme Rochefort en Transition ou Transition Forest Row, ont appliqué ce conseil et profité de leur « grande libération »<sup>[2](#note)</sup> pour annoncer à toutes les personnes présentes qu'ils offraient l'initiative à quiconque souhaiterait faire avancer le processus. Pour certains, l'exercice a porté ses fruits : le travail du groupe initiateur s'est terminé lors de l'événement de lancement ou d'un forum ouvert et de nouveaux groupes de travail se sont formés. Le groupe initiateur a alors confié à une nouvelle structure la tâche de coordonner et gérer les étapes suivantes du projet de Transition. Pour d'autres, l'évolution se fait graduellement. Alors que de nouveaux groupes se forment et que de nouvelles personnes adhèrent, les initiateurs prennent de la distance ou endossent un rôle différent, ce qui leur permet d'éventuellement s'impliquer dans un projet pratique ou de créer un groupe de travail bien spécifique.
 
-<a id="note">
+<a id="note"> </a>
 ## Notes
 
 [1] NdT : Le Manuel de Transition ayant été écrit au tout début du mouvement de la Transition, il est aujourd'hui partiellement dépassé par les événements. Il est avantageusement complété par les ingrédients proposés dans le Transition Companion (ces ingrédients sont aujourd'hui en cours de traduction et de publication en français) et les histoires de projets locaux présentés dans Ils changent le monde.
