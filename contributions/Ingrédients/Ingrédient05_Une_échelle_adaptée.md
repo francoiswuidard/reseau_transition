@@ -36,7 +36,7 @@ _La leçon principale à tirer de ceci, c'est que la Transition marche dans les 
 
 Je ne pense pas que le but de la Transition soit de s'enliser dans la bureaucratie et je ne pense pas qu'il soit utile de vouloir faire fonctionner la Transition au niveau d'une ville. Chaque heure passée dans une réunion de Londres en Transition est une heure qui aurait pu être consacrée à la mise en place d'une initiative de Transition locale afin de prouver à encore plus de personnes que la Transition est un excellent moyen d'aller de l'avant.
 
-<a id="note">
+<a id="note"> </a>
 ## Notes
 [1] Menée pour Hopkins, R. (2010) Localisation and Resilience at the local level : the case of Transition Town Totnes. Doctorat, Université de Plymouth. Disponible sur [http://tinyurl.com/655lg9a](http://tinyurl.com/655lg9a).
 
