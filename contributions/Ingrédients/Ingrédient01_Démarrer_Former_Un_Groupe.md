@@ -1,4 +1,4 @@
-# DÉMARRER : 1 Se rassembler et former un groupe
+# 1 Se rassembler et former un groupe
 *Ces premiers ingrédients vous aident à transformer votre idée ou envie de Transition en un projet qui a de bonnes chances d'aboutir.* 
 
 ## DÉFI	
