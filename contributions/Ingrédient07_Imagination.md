@@ -1,4 +1,4 @@
-# Imagination
+# Ingrédient 7: Imagination
 
 ## Défi
 Ne pas être capable d'imaginer un monde qui ne dépendrait plus autant des énergies fossiles pourrait sérieusement entraver sa conception et sa mise en œuvre. Comment remédier au mieux à ce manque d'imagination collective ?
