@@ -59,7 +59,7 @@ Voici quelques règles que vous pourriez soumettre à la réflexion du groupe lo
 
 Nous vous conseillons également de réfléchir aux personnes dont le groupe a besoin. Quelles sont les compétences demandées ? Quelles voix devraient être représentées et ne le sont pas ?
 
-<a id="note">
+<a id="note"> </a>
 ## Notes
 
 **[1]** NdT : en cours de traduction, mais disponible en anglais sur [www.transitionnetwork.org/ingredients](http://www.transitionnetwork.org/ingredients)
