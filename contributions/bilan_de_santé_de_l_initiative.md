@@ -146,6 +146,6 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 
 ## Sources
 
-Texte issu de l'offre de support du [Réseau Transition Belgique](http://www.reseautransition.be/) et de la formation "Déployer et fortifier votre initiative".
+Texte issu de l'offre de support du [Réseau Transition Belgique](http://www.reseautransition.be/) et de la formation "Déployer et fortifier son initiative de Transition".
 
 Publié par [Vincent Wattelet](mailto: vincent@reseautransition.be) via [Réseau Transition Belgique](http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
