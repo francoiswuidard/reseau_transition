@@ -58,8 +58,7 @@ Que nous parlions de Liège, d'Ixelles, de Rochefort ou de Soignies, les caract�
 <a id="note">
 ## Notes
 
-**[1]** Khan, N. (2010) "From Big Society to Little Society and back again, and how diversity can help..." Une présentation donnée lors du Cultural Leadership Seminar organisé par le Huddelsfield Creative Arts Network le 18 novembre 2010. Le texte en entier est disponible en anglais sur
-
+[1] Khan, N. (2010) "From Big Society to Little Society and back again, and how diversity can help..." Une présentation donnée lors du Cultural Leadership Seminar organisé par le Huddelsfield Creative Arts Network le 18 novembre 2010. Le texte en entier est disponible en anglais sur
 [www.naseemkhan.com/huddersfield.doc](www.naseemkhan.com/huddersfield.doc).
 
 [2] CABE (2005) Decent Parks? Decent Behaviour? The link between the quality of parks and user behaviour. Commission pour l'architecture et l'environnement urbain. Disponible sur [http://tinyurl.com/4wgpl4u](http://tinyurl.com/4wgpl4u).
