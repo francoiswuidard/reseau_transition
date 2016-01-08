@@ -17,7 +17,7 @@ Qu'entendons-nous par respect ? Nous avons tous notre propre idée de ce qu'est
 
 Une courtoisie malsaine (définie comme une politesse excessive ou formalisée) peut entretenir des rapports de pouvoir établis, minant de cette façon le souhait de renouveau de la Transition. La courtoisie peut, dans ce cas, se confondre avec la passivité. Dans certaines cultures, par exemple, le fait qu'une femme ou une personne appartenant à une certaine classe sociale ou origine ethnique participe de quelque façon que ce soit à la vie civile ou politique bafoue les principes de la courtoisie. 
 
-En parlant des avancées en matière de droits de la femme[1], Virginia Shapiro prétend que « les femmes ne peuvent rester courtoises en défendant leurs intérêts en politique ». Michael Reagan, le fils de Ronald Reagan, dit qu'« après tout, il n'y a pas de révolution sans plumes froissées » et que « les révolutionnaires ne sont pas connus pour leur respect du protocole »[2]. La courtoisie est, évidemment, plus facile à respecter lorsque les personnes sont fortement susceptibles d'être sur la même longueur d'onde. Comme le dit Virginia Shapiro, la courtoisie est « difficile à respecter si les personnes ont des histoires, des cultures, des intentions ou des statuts différents ».
+En parlant des avancées en matière de droits de la femme<sup>[1](#note)</sup>, Virginia Shapiro prétend que « les femmes ne peuvent rester courtoises en défendant leurs intérêts en politique ». Michael Reagan, le fils de Ronald Reagan, dit qu'« après tout, il n'y a pas de révolution sans plumes froissées » et que « les révolutionnaires ne sont pas connus pour leur respect du protocole »<sup>[2](#note)</sup>. La courtoisie est, évidemment, plus facile à respecter lorsque les personnes sont fortement susceptibles d'être sur la même longueur d'onde. Comme le dit Virginia Shapiro, la courtoisie est « difficile à respecter si les personnes ont des histoires, des cultures, des intentions ou des statuts différents ».
 
 Toutefois, la courtoisie (lorsqu'elle est saine et synonyme de communication bienveillante) est essentielle à toute initiative de Transition. Une personne bruyante et qui s'impose trop dans le groupe pourrait en rebuter plus d'un et rendre tout progrès impossible. Comme pour tout, la communication respectueuse est une question d'attitude, il s'agit d'avoir envie de comprendre l'avis des autres, d'être ouvert aux nouvelles idées, de ne pas rester borné ou de ne pas s'accrocher à l'impression que nos arguments sont meilleurs. Il faut vouloir s'adresser aux autres avec respect et clarté. 
 
@@ -33,7 +33,7 @@ Tirées du World Café ([http://theworldcafe.com](http://theworldcafe.com))
 
 En résumé, la communication bienveillante est assez simple. Nous savons tous ce que ça fait de se *sentir* respecté. Quand quelqu'un nous écoute, nous nous sentons bien, alors que nous sommes frustrés face à quelqu'un d'impoli ou de provocateur. Si nous comprenons ce qui nous fait du bien et si nous pouvons nous en souvenir et nous assurer que les personnes que nous rencontrons se sentent bien aussi, l'initiative de Transition ne pourra que s'embellir.
 
-## Notes
+<a id="note">## Notes
 
 [1] Sapiro, V. (1999) 'Considering political civility historically: a case study of the United States'. Document non publié, Société internationale pour la psychologie politique.
 
