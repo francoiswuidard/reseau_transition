@@ -29,7 +29,7 @@ _L'art est un mensonge qui nous permet de trouver la vérité._ Picasso
 ### Inventer une fiction peut aider les personnes à imaginer une réalité future.
 Tooting en Transition, avec d'autres initiatives de Transition à Londres, a créé le spectacle « Plan de descente énergétique en deux heures » en explorant l'idée d'une « ville en Transition type » fictive. Les animateurs ont ensuite demandé à des personnes du public d'improviser et de prétendre qu'ils habitaient cette ville. Ils ont pratiqué les « 12 étapes » de la Transition au travers d'activités interactives, film, libération de trois minutes avec un gâteau et une explosion de confetti, et élection « toute fraîche » du bourgmestre du village (un membre du public). Le spectacle a ensuite été présenté au Festival LIFT de South Bank London en 2008. Le public a fini par créer un grand livre : Le Plan d'action rudimentaire de descente énergétique pour une « ville en Transition type ». Le spectacle a également été présenté en 2009 à la Conférence internationale du Réseau Transition où il a remporté un vif succès. 
 
-Parfois, l'art permet de sensibiliser directement : Shaftesbury en Transition a participé à l'éco-cirque « Point de non-retour », un spectacle avec musique, artisanat et clowns dont le but était de parler du changement climatique à un jeune public.[1]
+Parfois, l'art permet de sensibiliser directement : Shaftesbury en Transition a participé à l'éco-cirque « Point de non-retour », un spectacle avec musique, artisanat et clowns dont le but était de parler du changement climatique à un jeune public<sup>[1](#note)</sup>.
 
 ###Transition en action : le Carnaval Attrape déchets
 _Plus aucune voiture ne pouvait circuler dans la rue principale de Tooting quand le Carnaval Attrape déchet s'est invité en ville ! En juillet 2010, plus de 800 participants d'écoles, de groupes et de clubs de la région ont créé un carnaval unique qui s'est paré, quasi exclusivement, de déchets ménagers. Plus d'un million de bouteilles et de sacs en plastique, un demi-million de paquets de chips, une demi-tonne d'osier renouvelable et une demi-tonne d'autres matériaux recyclés ont été récoltés en six mois pour donner vie à ce merveilleux spectacle._
@@ -45,6 +45,7 @@ Un concept attrayant vous permettra de toucher un public plus large. Un bon desi
 
 Beaucoup d'initiatives de Transition mettent sur pied leur propre groupe artistique pour enrichir le travail de l'organisation. Le groupe artistique de Totnes en Transition possède une page internet et celui de Romsey en Transition est parvenu à décrocher un financement pour soutenir le rôle de l'art dans leur initiative. Oswestry en Transition a lancé un projet nommé Footfall qui permet aux enfants du quartier de s'exprimer par l'art et d'exposer leurs œuvres dans les magasins vides de la région.
 
+<a id="note">
 ## Notes
 
 [1] Vous pouvez visionner un film en anglais sur l'Éco-cirque sur [www.transitiontownshaftesbury.org.uk/index.php?n=Main.Video](www.transitiontownshaftesbury.org.uk/index.php?n=Main.Video)
