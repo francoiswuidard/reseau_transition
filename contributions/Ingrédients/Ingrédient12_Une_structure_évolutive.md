@@ -1,4 +1,4 @@
-# 13 Une structure évolutive
+# 12 Une structure évolutive
 
 ## Défi
 À quoi ressemblerait une initiative de Transition qui serait conçue non pas pour mener une grande variété de projets, mais pour soutenir ceux qui les mettent en place ? 
