@@ -25,7 +25,7 @@ Remplissez ensuite le diagramme pour chaque phrase (le 5 se trouve à l'extrémi
 ## 1. Comment lancer la Transition : démarrer un groupe initiateur
 
 1. Nous avons un groupe noyau/initiateur composé de 4 à 15 personnes
-2. Notre groupe a la même vision de la Transition et de pourquoi elle est nécessaire
+2. Notre groupe a la même vision de la Transition et de son importance
 3. Notre groupe s'est inscrit sur le site du réseau international ou du réseau national
 4. Nous avons pris contact avec les initiatives qui nous entourent
 5. Nous avons réfléchi aux différents domaines d'action que nous souhaitons couvrir et nous estimons couvrir une variété idéale et réaliste de projets
@@ -59,8 +59,8 @@ Remplissez ensuite le diagramme pour chaque phrase (le 5 se trouve à l'extrémi
 4. Nous avons pris contact avec nos élus locaux
 5. Certaines des personnes impliquées dans l'IT vivent dans le quartier/village depuis plusieurs années
 6. D'autres groupes considèrent que notre initiative est positive, ouverte et utile
-7. Nous entretenons des liens avec divers types de groupes dans notre quartier/village (divers au niveau des revenus, des origines ethniques, des générations,...)
-8. Nous avons pu gérer les difficultés qui sont apparues dans nos relations avec d'autres groupes (dans le cas où cela s'applique)
+7. Nous collaborons avec divers types de groupes locaux (divers au niveau des revenus, des origines ethniques, des générations,...)
+8. Nous avons pu gérer les difficultés qui sont survenues dans nos relations avec d'autres groupes (dans le cas où cela s'applique)
 9. Nous possédons un plan stratégique sur la mise en réseau et les partenariats
 10. Nous faisons la promotion du travail d'autres groupes dans notre région
 
@@ -105,7 +105,7 @@ Remplissez ensuite le diagramme pour chaque phrase (le 5 se trouve à l'extrémi
 ## 7. Implication de la population locale
 
 1. Nous savons qui habite dans notre région, comment communiquer avec ces personnes et les impliquer de façon sensée dans notre groupe/nos projets
-2. Nous libérons du temps pour se mettre à l'écoute de ce qui est important aux yeux des habitants de notre région
+2. Nous libérons du temps pour être à l'écoute de ce qui est important aux yeux des habitants de notre région
 3. Nous comprenons les préoccupations et problèmes actuels locaux et nous pouvons y associer un message de Transition
 4. Nous avons recours à divers styles et types de campagnes de sensibilisation et de méthodes d'implication (a) pour des personnes qui se situent à différentes étapes du changement (b) pour différents groupes culturels et démographiques (C) sur des sujets différents (d) pour des personnes qui fonctionnent avec la tête, le cœur ou les mains
 5. Nous savons comment organiser des événements amusants, motivants, participatifs et créateurs de liens
