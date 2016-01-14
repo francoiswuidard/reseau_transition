@@ -1,50 +1,50 @@
 # Comment se porte notre initiative de transition ?
 
-Le bilan de santé a pour objectif d'aider les initiatives de Transition (IT) à :
+L'objectif du bilan de santé est d'aider les initiatives de Transition (IT) à :
 
-- Réfléchir à tout ce que l'initiative a accompli et lancer la discussion sur ce qui fonctionne bien et sur ce qui pourrait être amélioré 
-- Fêter les atouts et les réussites
+- Faire le point sur ce qui a été accompli et réfléchir à ce qui fonctionne bien et à ce qui pourrait être amélioré 
+- Célébrer les atouts et les réussites
 - Identifier les domaines qui nécessitent davantage de travail, de compétences ou de ressources 
-- Préciser les prochaines étapes, tout en sachant qu'il peut être nécessaire de ralentir 
+- Définir les prochaines étapes, ce qui peut inclure un ralentissement volontaire 
 
-Beaucoup de groupes nous[1] ont confié avoir été confrontés à un grand nombre de questions en effectuant leur bilan de santé. La discussion qui en a découlé leur a parfois permis de trouver les réponses. Le bilan de santé met l'accent sur la façon dont l'initiative fonctionne[2]. Chaque IT[3] est différente et varie en fonction des personnes qui s'y impliquent, des atouts et des défis liés à l'environnement dans lequel elle évolue et des événements externes qui poussent, ou non, des personnes à la rejoindre. Nous espérons qu'après avoir dressé votre bilan de santé, vous serez davantage en mesure de célébrer ce que vous avez accompli plutôt que de vous sentir dépassés par ce que vous n'avez pas fait. Aucune initiative n'a, à notre connaissance, obtenu un score parfait... nous nous serions inquiétés si cela avait été le cas !
+Beaucoup de groupes nous[1] ont confié s'être posés de nombreuses questions en effectuant leur bilan de santé. Toutefois, la discussion qui a découlé de l'exercice leur a parfois permis de trouver les réponses qu'ils cherchaient. Le bilan de santé met l'accent sur la façon dont l'initiative fonctionne[2]. Chaque IT[3] est différente et varie en fonction des personnes qui s'y impliquent, des atouts et des défis liés à l'environnement dans lequel elle évolue et des événements externes qui poussent, ou non, des personnes à la rejoindre. Nous espérons qu'après avoir dressé votre bilan de santé, vous serez davantage en mesure de célébrer ce que vous avez accompli plutôt que de vous sentir dépassés par ce que vous n'avez pas fait. Aucune initiative n'a, à notre connaissance, obtenu un score parfait... nous nous serions inquiétés si cela avait été le cas !
 
-Le bilan de santé se penche sur 9 aspects d'une initiative de Transition. Grâce à notre expérience de la Transition dans de nombreux contextes, cultures et pays différents, nous avons pu constater que ces 9 points étaient essentiels pour créer des initiatives de transition efficaces, amusantes et fortes. La numérotation ne reflète en rien l'importance ou l'ordre dans lequel ces aspects doivent être abordés. Pour que la Transition soit efficace, de nombreux points de vue, compétences et activités différents doivent se rencontrer. La proposition d'aide aux initiatives qui est présentée sur le [site internet du Transition network](https://www.transitionnetwork.org/) et dans nos formations couvre également ces 9 domaines. Celle du [Réseau Transition Wallonie Bruxelles](http://www.reseautransition.be/) est en passe également de couvrir ces domaines. Par conséquent, si vous avez besoin d'aide pour quoi que ce soit, vous pourrez toujours trouver en ligne des informations et des activités adaptées à vos besoins. Vous pouvez également télécharger et imprimer un petit livret reprenant ces informations si vous préférez les avoir par écrit (en cours de rédaction). 
+Le bilan de santé se penche sur 9 aspects d'une initiative de Transition. En observant la mise en place de la Transition dans de nombreux contextes, cultures et pays différents, nous sommes arrivés à la conclusion que ces 9 points étaient essentiels pour créer des initiatives de transition efficaces, amusantes et fortes. La numérotation ne reflète en rien l'importance ou l'ordre dans lequel ces aspects doivent être abordés. Pour que la Transition soit efficace, il faut que différents points du vue, compétences et projets soient représentés. Nous couvrons également ces 9 domaines dans notre proposition d'aide aux initiatives présentée sur le [site internet du Transition network](https://www.transitionnetwork.org/) et dans nos formations. Celles du [Réseau Transition Wallonie Bruxelles](http://www.reseautransition.be/) sont en passe également de couvrir ces domaines. Par conséquent, si vous avez besoin d'aide pour quoi que ce soit, vous pourrez toujours trouver en ligne des informations et des activités adaptées à vos besoins. Vous pouvez également télécharger et imprimer un petit livret reprenant ces informations si vous préférez les avoir par écrit (en cours de rédaction). 
 
-N'hésitez pas à visiter le site du Réseau Transition Wallonie Bruxelles ou du Transition Network pour du support, des outils, des ressources… ou à nous contacter !
+N'hésitez pas à visiter le site du Réseau Transition Wallonie Bruxelles ou du Transition Network pour trouver du support, des outils, des ressources… ou à nous contacter !
 
 Le bilan de santé se concentre sur les premières étapes de la Transition, afin d'assurer de solides bases. Vous trouverez par ailleurs, en lisant les ingrédients repris dans le Transition Companion et sur le site internet, bien plus d'idées d'activités et d'outils que vous pourriez souhaiter utiliser. 
 
 ## Comment dresser le bilan de santé de votre initiative de Transition 
 
-En petits groupes, parcourez les phrases en évaluant les réponses sur une échelle allant de 1 à 5. 1 signifie que « cette phrase ne correspond pas à notre IT » et 5 signifie que « cela est vrai dans notre cas et nous nous en sortons très bien dans ce domaine ». Ne bloquez pas sur une phrase : si une question ne s'applique pas à votre initiative ou n'a pas de sens à vos yeux, passez à la suivante. Si vous ne parvenez pas à vous mettre d'accord sur un résultat, choisissez soit d'inscrire la moyenne, soit de représenter la fourchette sur le diagramme. Souvenez-vous que les discussions que l'exercice suscite sont plus importantes que l'obtention d'un résultat élevé, ou d'un résultat tout court ! Indiquez sur le diagramme tous les moments où vous avez pris conscience de quelque chose, ainsi que les désaccords. En cherchant à comprendre le pourquoi des divergences, vous pourriez découvrir des aspects importants et intéressants de la Transition, ou de la façon dont votre groupe fonctionne. 
+En petits groupes, parcourez les phrases en évaluant les réponses sur une échelle allant de 1 à 5. 1 signifie que « cette phrase ne correspond pas à notre IT » et 5 signifie que « cela est vrai dans notre cas et nous nous en sortons très bien dans ce domaine ». Ne bloquez pas sur une phrase : si une question ne s'applique pas à votre initiative ou n'a pas de sens à vos yeux, passez à la suivante. Si vous ne parvenez pas à vous mettre d'accord sur un résultat, choisissez soit d'inscrire la moyenne, soit de représenter la fourchette sur le diagramme. Souvenez-vous que les discussions suscitées par l'exercice sont plus importantes que l'obtention d'un résultat élevé, ou d'un résultat tout court ! Indiquez sur le diagramme tous les moments où vous avez pris conscience de quelque chose, ainsi que les désaccords. En cherchant à comprendre le pourquoi des divergences, vous pourriez découvrir des aspects importants et intéressants de la Transition ou de la façon dont votre groupe fonctionne. 
 
 ![Fromage](https://github.com/reseautransitionwb/reseau_transition/blob/master/contributions/fromage.png?raw=true)
 
-Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extrémité et le 1 au centre. Commencez par la question 1 et continuez avec la 2, 3, 4, etc. dans le sens des aiguilles d'une montre. Recommencez un nouveau diagramme pour chacun des 9 domaines. Au final, vous obtiendrez pour chaque domaine quelque chose qui ressemble un peu à l'exemple ci-dessous. Étant donné que certains domaines comportent plus de 8 questions, vous pouvez par exemple couper un quartier en deux. Vous pouvez choisir de mener cet exercice régulièrement (chaque année par exemple) pour comparer vos résultats. Il est en effet difficile de mesurer ou d'évaluer la Transition et cet exercice est une façon de le faire. N'hésitez pas à ajouter d'autres phrases qui pourraient vous aider à évaluer votre état de santé. Bon amusement !
+Remplissez ensuite le diagramme pour chaque phrase (le 5 se trouve à l'extrémité et le 1 au centre). Commencez par la question 1 et continuez avec la 2, 3, 4, etc. dans le sens des aiguilles d'une montre. Recommencez un nouveau diagramme pour chacun des 9 domaines. Au final, vous obtiendrez pour chaque domaine quelque chose qui ressemble un peu à l'exemple ci-dessous. Étant donné que certains domaines comportent plus de 8 questions, vous pouvez, par exemple, couper un quartier en deux. Vous pouvez choisir de mener cet exercice régulièrement (chaque année par exemple) pour comparer vos résultats. Il est en effet difficile de mesurer ou d'évaluer la Transition et cet exercice est une façon de le faire. N'hésitez pas à ajouter d'autres phrases qui pourraient vous aider à évaluer votre état de santé. Bon amusement !
 
 ## 1. Comment lancer la Transition : démarrer un groupe initiateur
 
 1. Nous avons un groupe noyau/initiateur composé de 4 à 15 personnes
-2. Notre groupe possède une même vision de ce qu'est la Transition et de pourquoi elle est nécessaire
+2. Notre groupe a la même vision de la Transition et de pourquoi elle est nécessaire
 3. Notre groupe s'est inscrit sur le site du réseau international ou du réseau national
-4. Nous avons pris contact avec les initiatives aux alentours
-5. Nous avons réfléchi aux domaines que nous couvrons et nous nous rapprochons d'une diversité idéale et réaliste
-6. Nous comprenons les chances et les défis liés à la Transition dans notre quartier
-7. Au moins une personne de notre groupe possède des connaissances approfondies de la Transition, car elle a suivi des formations, lu des livres ou parcouru les sites internet 
+4. Nous avons pris contact avec les initiatives qui nous entourent
+5. Nous avons réfléchi aux différents domaines d'action que nous souhaitons couvrir et nous estimons couvrir une variété idéale et réaliste de projets
+6. Nous avons identifié les défis et les avantages liés à la Transition dans notre région
+7. Au moins une personne de notre groupe possède des connaissances approfondies de la Transition, car elle a suivi des formations, lu les livres ou parcouru les sites internet 
 
 ![Fromage-Bilan_de_sante.png](https://github.com/reseautransitionwb/reseau_transition/blob/master/contributions/Fromage-Bilan_de_sante-petit.png?raw=true)
 
 ## 2. Renforcer votre groupe
 
 1. Notre groupe s'est mis d'accord sur des objectifs clairs
-2. Notre groupe obtient des résultats
+2. Notre groupe obtient des résultats tangibles
 3. Les membres comprennent bien leurs responsabilités et leurs rôles
 4. Nous nous sommes mis d'accord sur une charte (les principes de travail ou la façon de travailler)
 5. Nous nous sommes mis d'accord sur des processus clairs pour prendre, noter et suivre les décisions
 6. Nos réunions sont efficaces et nous avons un ordre du jour, des échanges et un compte-rendu clairs
 7. Nous consacrons du temps en réunion à réfléchir à la façon dont nous travaillons ensemble
-8. Nous avons réfléchi à la façon dont nous pouvons animer nos réunions
+8. Nous avons réfléchi à la façon dont nous pouvons animer/faciliter nos réunions
 9. Nous avons parlé de la répartition du pouvoir et des responsabilités au sein du groupe et nous sommes parvenus à un accord
 10. Des processus ont été mis en place pour intégrer de nouvelles personnes et permettre aux membres actuels de se retirer
 11. Nous avons pu gérer de façon satisfaisante les différences ou les conflits qui se sont présentés à nous
@@ -53,16 +53,16 @@ Remplissez ensuite le diagramme pour chaque phrase, le 5 se trouvant à l'extré
 
 ## 3. Réseaux et partenariats
 
-1. Nous entretenons des liens avec des organisations locales importantes comme les écoles, les entreprises, les comités de quartiers, les associations locales...
+1. Nous avons noué des liens avec d'autres organisations locales comme les écoles, les entreprises, les comités de quartiers, les associations locales...
 2. Nous avons réfléchi aux partenariats que nous pourrions nouer et pour quelles raisons
 3. Nous faisons l'effort d'agir en partenariat avec d'autres groupes ou organisations
 4. Nous avons pris contact avec nos élus locaux
-5. Certaines des personnes impliquées dans l'IT vivent dans le quartier depuis plusieurs années
+5. Certaines des personnes impliquées dans l'IT vivent dans le quartier/village depuis plusieurs années
 6. D'autres groupes considèrent que notre initiative est positive, ouverte et utile
-7. Nous entretenons des liens avec divers types de groupes dans notre quartier (par exemple, différents au niveau des revenus, des origines ethniques, des générations,...)
+7. Nous entretenons des liens avec divers types de groupes dans notre quartier/village (divers au niveau des revenus, des origines ethniques, des générations,...)
 8. Nous avons pu gérer les difficultés qui sont apparues dans nos relations avec d'autres groupes (dans le cas où cela s'applique)
-9. (avancé) Nous possédons un plan stratégique sur les partenariats et les réseaux
-10. (avancé) Nous faisons la promotion du travail d'autres groupes dans notre région
+9. Nous possédons un plan stratégique sur les partenariats et les réseaux
+10. Nous faisons la promotion du travail d'autres groupes dans notre région
 
 ![Fromage-Bilan_de_sante.png](https://github.com/reseautransitionwb/reseau_transition/blob/master/contributions/Fromage12-Bilan_de_sante-petit.png?raw=true)
 
