@@ -49,5 +49,5 @@ _Autre source (en anglais) : [https://www.transitionnetwork.org/transition-movi
 
 ## A propos de cet article
 
-Publié par Josué Dusuoulier via [Réseau Transition Belgique](http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
+Publié par Josué Dusoulier via [Réseau Transition Belgique](http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 Vous pouvez éditer cet article via la [plate-forme Multibao](http://www.multibao.org/reseautransitionwb/reseau_transition/contributions/animer_une_projection_de_films.md).
