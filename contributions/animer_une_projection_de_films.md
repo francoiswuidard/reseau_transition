@@ -43,3 +43,8 @@ Pour clôturer, on demande à chacun de réfléchir à ce qu'il pourrait faire p
 Dire un mot de remerciement et d'au revoir.
 
 _Autre source (en anglais) : [https://www.transitionnetwork.org/transition-movie](https://www.transitionnetwork.org/transition-movie) _
+
+## A propos de cet article
+
+Publié par [Josué Dusuoulier](mailto:josue@reseautransition.be) via [Réseau Transition Belgique](http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
+Vous pouvez éditer cet article via la [plate-forme Multibao](http://www.multibao.org/reseautransitionwb/reseau_transition/contributions/animer_une_projection_de_films.md).
