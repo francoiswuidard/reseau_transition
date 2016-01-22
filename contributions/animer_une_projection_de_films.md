@@ -1,4 +1,4 @@
-![exemple_projection_eet.jpg]({{site.baseurl}}/contributions/exemple_projection_eet.jpg)
+![exemple_projection_eet.jpg](https://github.com/reseautransitionwb/reseau_transition/blob/master/contributions/exemple_projection_eet.jpg?raw=true)
 
 
 # Suggestions pour les animations autour de projections de films
