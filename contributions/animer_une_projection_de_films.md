@@ -1,3 +1,6 @@
+![exemple_projection_eet.jpg]({{site.baseurl}}/contributions/exemple_projection_eet.jpg)
+
+
 # Suggestions pour les animations autour de projections de films
 
 Les initiatives organisent régulièrement la projection de documentaires afin d'amener un groupe à questionner notre système et réfléchir aux idées de la Transition. L'expérience montre qu'il est important d'aider les spectateurs à gérer les émotions qui peuvent surgir lors de ces projections. Le risque existe que certaines émotions fortes non identifiées poussent des participants à se protéger et à fuir les réflexions sur ces thématiques.
