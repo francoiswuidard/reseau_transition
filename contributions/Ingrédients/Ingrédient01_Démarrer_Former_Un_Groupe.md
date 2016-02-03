@@ -17,9 +17,9 @@ par Sophy Banks 
 
 *« Ne doutez jamais du fait qu'un petit groupe de citoyens engagés et décidés peut changer le monde. En effet, il en a toujours été ainsi. »* Margaret Mead
 
-En démarrant un groupe de Transition, nous nous imaginons souvent qu'il sera facile de travailler ensemble puisque le groupe s'est créé autour d'un objectif commun. Toutefois, chaque personne conçoit le fonctionnement d'un groupe de façon différente, sur base d'expériences passées, de croyances et en fonction de ses propres forces et capacités. Cet ingrédient ne prétend pas dicter la « bonne » façon de structurer un groupe, car chaque groupe va devoir trouver son propre mode de fonctionnement. Nous proposons malgré tout quelques idées et stratégies utiles.
+Au moment de lancer un groupe de Transition, on s'imagine souvent qu'il sera facile de travailler ensemble puisque le groupe s'est créé autour d'un objectif commun. Toutefois, chaque personne conçoit le fonctionnement d'un groupe de façon différente, sur base d'expériences passées, de croyances et en fonction de ses propres forces et capacités. Cet ingrédient ne prétend pas dicter la « bonne » façon de structurer un groupe, car chaque groupe va devoir trouver son propre mode de fonctionnement. Nous proposons malgré tout quelques idées et stratégies utiles.
 
-Comment pourrions-nous maximiser les retombées positives (ce qui nous motive à faire partie d'un projet comme la Transition) tout en réduisant au minimum les difficultés (qui transforment tout plaisir en corvée) ? Investir du temps et de l'énergie dès les toutes premières étapes autour de cette question vous permet d'en gagner nettement plus par après. Les activités prévues ici pourraient occuper presque toutes vos premières réunions et figurer régulièrement à l'ordre du jour du premier semestre ou de la première année de votre existence, mais l'investissement en vaut la peine.  (Les étapes ultérieures de la vie d'un groupe sont traitées dans la section Maintenir (Renforcer 9) et CONFLIT SAIN (Outils de la Transition nº 11))<sup>[1](#note)</sup>.
+Comment s'y prendre pour maximiser les retombées positives (ce qui nous motive à faire partie d'un projet comme la Transition) tout en réduisant au minimum les difficultés (qui transforment tout plaisir en corvée) ? Consacrer du temps et de l'énergie à cette question dès les toutes premières étapes vous permet d'en gagner nettement plus par après. Les activités prévues ici pourraient occuper presque toutes vos premières réunions et figurer régulièrement à l'ordre du jour du premier semestre ou de la première année de votre existence, mais l'investissement en vaut la peine.  (Les étapes ultérieures de la vie d'un groupe sont traitées dans la section MAINTENIR L'ÉLAN(Renforcer 9) et CONFLIT SAIN (Outil de la Transition nº 11))<sup>[1](#note)</sup>.
 
 La première chose à faire est de définir l'*objectif* du groupe. Vous pourriez choisir de décrire la mission que se donne le groupe dans une déclaration et d'y ajouter quelques phrases secondaires précisant les démarches à suivre. Voici, en guise d'exemple, la déclaration d'objectif d'Exmouth en Transition :
 
@@ -30,7 +30,7 @@ La première chose à faire est de définir l'*objectif* du groupe. Vous pourrie
 - *Appliquer le modèle de la Transition à la ville d'Exmouth*
 - *Encourager les acteurs concernés à appliquer des mesures visant une descente énergétique et à mener des actions pratiques dans le but d'atteindre les objectifs de la mission.  »*
 
-Le fait de se mettre d'accord sur la mission ou l'objectif de votre groupe vous aidera fortement à y voir plus clair dans tout ce qui va suivre : qui rejoint le groupe, comment travailler ensemble, à quoi consacrer son temps, quelles sont les priorités, etc. Certains groupes emmènent la déclaration d'objectif à chaque réunion pour garder constamment à l'esprit ce qu'ils ont envie de faire. Prévoyez d'inclure dans les objectifs un mot sur le fonctionnement du groupe, ainsi que sur ce que vous allez faire. 
+Le fait de se mettre d'accord sur la mission ou l'objectif de votre groupe vous aidera fortement à y voir plus clair dans tout ce qui va suivre : qui rejoint le groupe, comment travailler ensemble, à quoi consacrer son temps, quelles sont les priorités, etc. Certains groupes emmènent la déclaration d'objectif à chaque réunion pour garder constamment à l'esprit ce qu'ils ont envie de faire. Prévoyez d'inclure dans les objectifs un mot sur le fonctionnement et les activités du groupe. 
 
 Voici une petite liste d'activités diverses qu'un groupe pourrait inclure dans ses objectifs. Prenez un peu de temps dès le début pour réfléchir à ce qui est pertinent pour votre groupe.
 
@@ -45,7 +45,7 @@ Il vous faudra également vous mettre d'accord sur certaines règles de base con
 La plupart des groupes mettent à jour et ajoutent des règles en cours de route. Voici à quoi pourraient ressembler certaines règles de départ :
 
 - Où et quand se rencontrer
-- Comment gérer une réunion (ordre du jour, animation/facilitation, gestion du temps, etc. – voir RÉUNIONS EFFICACES (Outils de la Transition nº 4))
+- Comment gérer une réunion (ordre du jour, animation/facilitation, gestion du temps, etc. – voir ORGANISER DES RÉUNIONS EFFICACES (Outil de la Transition nº 4))
 - Comment prendre des décisions (consensus, vote à la majorité, consentement), les noter et suivre leur mise en œuvre
 - Comment se comporter les uns avec les autres (écoute respectueuse, ponctualité, respect de l'objectif du groupe, capacité à se remettre en question, valorisation des contributions de chacun et célébration de chaque réussite, respect d'une certaine confidentialité lorsque c'est nécessaire)
 - À quoi consacrer du temps en réunion (planification, action, réévaluation des tâches, apprentissage, moments informels, partage des émotions, exercices d'imagination, réévaluation et révision des règles du groupe, évaluation et feedback,...)
