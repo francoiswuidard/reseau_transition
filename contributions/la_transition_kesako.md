@@ -1,4 +1,5 @@
 C’est un processus mené par des citoyen(ne)s qui ont décidé d’agir pour que leur lieu de vie devienne plus résiliant, plus soutenable et plus agréable à vivre.
+
 ![couverturemanueldetransition](http://www.reseautransition.be/wp-content/uploads/2014/02/new-old-town-800x561x8-300x210.png)
 
 Les **Initiatives de Transition** visent à rassembler les citoyens et à développer des actions concrètes, créatives et conviviales afin de faire face positivement aux défis actuels de nos villes et de la planète. Le mouvement mondial de la [Transition](http://www.transitionnetwork.org) est né au Royaume-Uni en septembre 2006, sous l’impulsion de Rob Hopkins, dans la petite ville anglaise de [Totnes](http://www.transitiontowntotnes.org/). 
