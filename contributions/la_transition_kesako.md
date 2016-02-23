@@ -15,4 +15,4 @@ Le mouvement de Transition s’est bien installé en Belgique. Il y a des Initia
 
 ### Source :
 
-Rédigé par le [Réseau Transition Belgique]( http://www.reseautransition.be/) via la plate-form [Multibao](http://www.multibao.org/reseautransitionwb/reseau_transition/contributions) selon les termes de la licence Creative Commons BY-NC-SA.
+Rédigé par le [Réseau Transition Belgique]( http://www.reseautransition.be/) via la plate-forme [Multibao](http://www.multibao.org/reseautransitionwb/reseau_transition/contributions) selon les termes de la licence Creative Commons BY-NC-SA.
