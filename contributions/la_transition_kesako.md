@@ -9,7 +9,7 @@ On trouve plus de 3000 initiatives de transition à travers le monde, dans des c
 
 Dans une initiative de transition, des citoyens se mettent à travailler ensemble et unissent leurs forces, créativité et énergie pour lancer des actions et des projets concrets qui engendrent un changement positif dans leur lieu de vie. Au début, les groupes s’informent et apprennent à se connaître, puis rapidement des projets concrets sont organisés autour de thèmes comme l’énergie, l’habitat, la nourriture, le transport, la culture, le bien être, l’éducation, etc. L'objectif est de réinventer notre manière de vivre en société.… sans attendre que l’initiative vienne d’en haut ! **Tout citoyen peut décider de lancer une action ou projet et tout citoyen est invité à y participer.**
 
-##Et la Transition en Belgique?
+## Et la Transition en Belgique?
 
 Le mouvement de Transition s’est bien installé en Belgique. Il y a des Initiatives à Bruxelles, en Flandre et en Wallonie. Sur le site du [Réseau Transition](http://www.reseautransition.be), vous trouverez plus d’informations sur les initiatives qui s’auto-organisent autour du modèle de la transition à Bruxelles et en Wallonie. Pour plus d’information sur les initiatives en Flandres, rendez vous sur le site de [Transitie Vlaanderen](http://www.transitie.be/r/default.aspx).
 
