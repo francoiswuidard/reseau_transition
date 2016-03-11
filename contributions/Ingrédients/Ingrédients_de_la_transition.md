@@ -2,7 +2,7 @@
 
 *Les ingrédients sont traduits du Transition Companion. Ils évolueront avec des exemples locaux au fur et à mesure. N'hésitez pas à nous faire part d'exemples cohérents avec ce qui est expliqué !*
 
-<img src="https://github.com/reseautransitionwb/reseau_transition/blob/master/contributions/Ingr%C3%A9dients/images/ingredients_larder_small-300x212.jpg?raw=true" style="float: left;" class="margin-right: 20px; float-left;alignleft" height="212" width="300"> Nous ([Transition Network](https://www.transitionnetwork.org/) – Réseau International de Transition) avons dressé une liste d'ingrédients pour chaque étape de la vie d'une initiative de Transition. Toutefois, soyons clairs... les manières de se mettre en Transition sont nombreuses.
+<img src="https://github.com/reseautransitionwb/reseau_transition/blob/master/contributions/Ingr%C3%A9dients/images/ingredients_larder_small-300x212.jpg?raw=true" style="float: left;" class="margin-right: 20px; float-left; alignleft" height="212" width="300"> Nous ([Transition Network](https://www.transitionnetwork.org/) – Réseau International de Transition) avons dressé une liste d'ingrédients pour chaque étape de la vie d'une initiative de Transition. Toutefois, soyons clairs... les manières de se mettre en Transition sont nombreuses.
 
 Chaque initiative est différente et c'est ce qui rend l'exercice si créatif et enthousiasmant. Imaginez la Transition comme une recette de cuisine. Vous savez, par exemple, qu'il est possible de mélanger une multitude d'ingrédients pour préparer un gâteau. Néanmoins, chaque pâtissier le préparera à sa manière, en fonction de ses capacités, de sa culture et des ressources locales à sa disposition. 
 
