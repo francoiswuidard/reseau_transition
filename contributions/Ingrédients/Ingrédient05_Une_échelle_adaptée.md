@@ -46,3 +46,5 @@ Je ne pense pas que le but de la Transition soit de s'enliser dans la bureaucrat
 Traduit du [Transition Companion](https://www.transitionnetwork.org/transition-companion) écrit par [Rob Hopkins](https://www.transitionnetwork.org/about/people/staff-and-key-contributors). Traduction par [Caroline Durieux](http://www.reseautransition.be/articles/author/caroline-durieux/) selon les termes de la licence Creative Commons BY-NC-SA.
 
 Publié par [François-Olivier Devaux](mailto:francois@reseautransition.be) via [Réseau Transition Belgique](http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
+
+Ce texte est hébergé sur la plate-forme collaborative Multibao. Vous souhaitez l'éditer ou le voir apparaître sur votre site internet ? Rendez-vous sur www.multibao.org 
