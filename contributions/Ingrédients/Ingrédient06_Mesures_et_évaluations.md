@@ -56,4 +56,4 @@ Traduit du [Transition Companion](https://www.transitionnetwork.org/transition-c
 
 Publié par [Vincent Wattelet](mailto: vincent@reseautransition.be) via [Réseau Transition Belgique](http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
 
-Ce texte est hébergé sur la plate-forme collaborative Multibao. Vous souhaitez l'éditer ou le voir apparaître sur votre site internet ? Rendez-vous sur www.multibao.org 
+Ce texte est hébergé sur la plate-forme collaborative Multibao. Vous souhaitez l'éditer ou le voir apparaître sur votre site internet ? Rendez-vous sur [www.multibao.org](www.multibao.org)
