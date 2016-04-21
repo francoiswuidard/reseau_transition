@@ -1,4 +1,4 @@
-La Transition un processus mené par des citoyen(ne)s qui ont décidé d’agir pour que leur lieu de vie devienne plus résiliant, plus soutenable et plus agréable à vivre.
+La Transition un processus mené par des citoyen(ne)s qui ont décidé d’agir pour que leur lieu de vie devienne plus résilient, plus soutenable et plus agréable à vivre.
 
 <p align="center"><img src="http://www.reseautransition.be/wp-content/uploads/2014/02/new-old-town-800x561x8-300x210.png" alt="Transition"> </p>
 
