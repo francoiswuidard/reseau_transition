@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Comment se porte notre initiative de transition
+description: Des questions à se poser pour faire le bilan de santé de notre initiative de transition.
+image_url: https://github.com/multibao/contributions/blob/master/media/bilan_sante_inspiredimages_ccbysa.jpg?raw=true
+---
+
+-->
+
 # Comment se porte notre initiative de transition ?
 
 L'objectif du bilan de santé est d'aider les initiatives de Transition (IT) à :
