@@ -3,7 +3,7 @@
 ---
 title: Atelier Transition intérieure
 description: Si vous participez à un projet qui amène du changement vers un avenir plus soutenable, résilient, agréable et inclusif… et que vous souhaitez prêter attention aussi aux "dimensions intérieures" de ce processus, cet atelier est pour vous.
-image_url: https://github.com/multibao/contributions/blob/master/media/transition_interieure.jpg?raw=true
+image_url: https://github.com/multibao/contributions/blob/master/media/transition-interieure.jpg?raw=true
 ---
 
 -->
