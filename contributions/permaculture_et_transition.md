@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Permaculture et transition
+description: En quoi la permaculture est-elle au coeur des initiatives de transition ? Fiche qui présente le travail de Rob Hopkins, enseignant britannique en permaculture et initiateur du mouvement des villes en transition.
+image_url: https://github.com/multibao/contributions/blob/master/media/permaculture.jpg?raw=true
+---
+
+-->
+
 # Permaculture et transition
 
 ## La permaculture, au cœur des initiatives de transition
