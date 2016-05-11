@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Suggestions pour les animations autour de projections de films
+description: Ce texte donne quelques conseils pour vous aider à animer ces projections afin d'aider les participants à parler de leurs émotions et à offrir un espace de partage collectif.
+image_url: http://www.slate.fr/sites/default/files/styles/350x150/public/capture_decran_2014-09-06_a_13.51.48.png
+---
+
+--> 
+
 ![exemple_projection_eet.jpg](https://github.com/reseautransitionwb/reseau_transition/blob/master/contributions/exemple_projection_eet.jpg?raw=true)
 
 
