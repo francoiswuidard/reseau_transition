@@ -1,7 +1,7 @@
 <!--
 
 ---
-title: Principes de la permaculture
+title: Les principes de la permaculture
 description: Tableau explicatifs des principes de la permaculture, méthode de culture qui prend en considération la bio-diversité de chaque écosystème.
 image_url: https://github.com/multibao/contributions/blob/master/media/principes_permaculture.jpg?raw=true
 ---
