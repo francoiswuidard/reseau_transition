@@ -1,7 +1,7 @@
 <!--
 
 ---
-title: Exercice du "donut"
+title: Exercice du Donut
 description: Méthode de l'exercice du "donut", qui permet de comprendre comment nos comportements sont déterminés par nos croyances.
 image_url: https://github.com/multibao/contributions/blob/master/media/donut.jpg?raw=true
 ---
