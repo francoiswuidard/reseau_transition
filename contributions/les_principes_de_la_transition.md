@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Les principes de base de la transition
+description: Principes appliqués par Réseau Transition Wallonie Bruxelles et le Transition Network.
+image_url: https://github.com/multibao/contributions/blob/master/media/principes-transition-atcemphasis-ccbysa.jpg?raw=true
+---
+
+-->
+
 # Les principes de bases de la transition
 
 Les principes de la Transition sont très importants car ils définissent notre manière d’observer et analyser les situations, d’élaborer des réponses et d’interagir avec les gens. Ils comptent, car le contexte dans lequel nous évoluons peut nous bousculer, et il est vraiment utile d’avoir quelque chose de solide à quoi se référer. Ils comptent aussi car ils permettent à nos partenaires quotidiens de mieux comprendre notre approche et nos spécificités.
