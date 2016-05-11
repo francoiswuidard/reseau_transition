@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Une expérience pour vous projeter dans un avenir de transition
+description: Lisez le texte et imaginez vous dans l'avenir.
+image_url: https://github.com/multibao/contributions/blob/master/media/futurism.jpg?raw=true
+---
+
+--> 
+
 # Vision d'un avenir post-transition 
 
 *Lisez les instructions suivantes. Faites une pause à la fin de chaque phrase. Donnez une pause plus longue à la fin de chaque paragraphe. Utilisez votre voix pour créer un sentiment de calme et de paix.*
