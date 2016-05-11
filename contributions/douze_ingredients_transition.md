@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Exploration de 12 ingrédients de la Transition
+description: Ces 12 ingrédients sont issus des premières observations faites de ce qui semblait fonctionner dans le travail des premières Initiatives de Transition, en particulier à Totnes.
+image_url: https://github.com/multibao/contributions/blob/master/media/ingredients_transition-unityamidst-ccbysa.jpg?raw=true
+---
+
+-->
+
 # Douze ingrédients de la Transition
 
 Ces 12 ingrédients sont issus des premières observations faites de ce qui semblait fonctionner dans le travail des premières Initiatives de Transition, en particulier à Totnes.
