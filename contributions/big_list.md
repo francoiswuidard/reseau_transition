@@ -1,3 +1,13 @@
+<!--
+
+---
+title: L'outil Big-list, ou comment identifier de futurs partenaires et sympathisants.
+description: Faire en groupe la pratique de la big liste, peut vous aider à identifier de futurs partenaires et sympathisants. 
+image_url: https://github.com/multibao/contributions/blob/master/media/big-list-erikawittlieb-ccbysa.jpg?raw=true
+---
+
+--> 
+
 # La BIG liste
 
 Tous les groupes d’initiatives citoyennes se lancent dans des projets. Afin de mener à bien ses projets, ces groupes citoyens sont la plupart du temps amener à créer des partenariats et des relations avec d’autres groupes et institutions près de chez eux. 
