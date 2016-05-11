@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Les sept "mais" de la transition: y répondre
+description: "Oui ... c'est bien beau MAIS". Un article sur les 7 "mais" de la transition et des manières d'y répondre.
+image_url: https://github.com/multibao/contributions/blob/master/media/ouimais-wikimedia-ccbysa.jpg?raw=true
+---
+
+-->
+
 # Les sept « Mais » de la transition
 
 Si vous êtes arrivés jusqu’ici, c’est que vous pensez qu’une Initiative de Transition pourrait être appropriée à votre communauté.
