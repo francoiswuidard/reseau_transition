@@ -1,10 +1,20 @@
+<!--
+
+---
+title: Transition intérieure
+description: Si vous participez à un projet qui amène du changement vers un avenir plus soutenable, résilient, agréable et inclusif… et que vous souhaitez prêter attention aussi aux "dimensions intérieures" de ce processus, cet atelier est pour vous.
+image_url: https://github.com/multibao/contributions/blob/master/media/transition_interieure.jpg?raw=true
+---
+
+-->
+
 # Transition intérieure
 
 ![formatransitionintérieure](http://www.reseautransition.be/wp-content/uploads/2014/07/P1070720-300x225.jpg)
 
-Si vous participez à un projet qui amène du changement vers un avenir plus soutenable, résilient, agréable et inclusif… et que vous souhaitez prêter attention aussi aux « dimensions intérieures » de ce processus, cet atelier est pour vous.
+Si vous participez à un projet qui amène du changement vers un avenir plus soutenable, résilient, agréable et inclusif… et que vous souhaitez prêter attention aussi aux "dimensions intérieures" de ce processus, cet atelier est pour vous.
 
-Il réuni des personnes impliquées dans des projets collectifs, d’autres dans un parcours plus personnel, avec des personnes impliquées dans le mouvement des Initiatives de Transition. Ensemble, nous allons explorer des questions telles que:
+Il réunit des personnes impliquées dans des projets collectifs, d’autres dans un parcours plus personnel, avec des personnes impliquées dans le mouvement des Initiatives de Transition. Ensemble, nous allons explorer des questions telles que:
 
 * Comment pouvons-nous, malgré l’ampleur des défis, créer une dynamique de changement enthousiasmante et avancer vers une vie soutenable en créant un mode de vie préférable dès aujourd’hui sur cette belle planète ?
 * Qu’est-ce qui a déjà été fait pour intégrer des éléments et processus intérieurs avec des actions concrètes pour mettre en place des projets plus résilients et efficaces ? Nous partagerons des exemples d’Initiatives de Transition et d’autres projets…
