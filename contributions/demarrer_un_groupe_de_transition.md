@@ -1,3 +1,13 @@
+<!--
+
+---
+title: Démarrer un groupe de transition
+description: Méthode et conseils pour lancer une initiative de transition.
+image_url: https://github.com/multibao/contributions/blob/master/media/demarrer_groupe_transition.jpg?raw=true
+---
+
+-->
+
 # Démarrer un groupe
 
 Schématiquement, lancer une initiative de transition peut se découper en trois phases :
