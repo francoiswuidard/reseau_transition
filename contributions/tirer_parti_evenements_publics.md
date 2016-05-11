@@ -1,6 +1,16 @@
+<!--
+
+---
+title: Tirer parti de vos événements publics
+description: Les projections de films et les conférences sont des occasions de créer du lien social. Il est donc important de prévoir un temps pour échanger et garder contact. Cette fiche donne quelques idées pour organiser ces temps.
+image_url: https://github.com/multibao/contributions/blob/master/media/tirer_parti_evenement.jpg?raw=true
+---
+
+-->
+
 # Tirer le meilleur parti de vos événements publics
 
-La projection d’un film est plus qu’une simple occasion de faire asseoir du monde devant un écran. De même, une conférence est bien plus qu’une occasion d’écouter les réflexion d’un penseur bien connu sur un suet donné. Ces deux types d’événements sont autant d’occasion d’amener les gens à se parler, à créer des liens sociaux et à étoffer leurs réseaux. On peut même affirmer que ce point est beaucoup plus important que le film luimême […]. Il est aussi important de prévoir un « temps de digestion », c’est-à-dire du temps pour réfléchir à ce que les gens ont entendu, plutôt que de déverser de l’information sur eux avant de les envoyer se coucher, clignant des yeux et abasourdis. Voici quelques idées pour vos projections ou conférences :
+La projection d’un film est plus qu’une simple occasion de faire asseoir du monde devant un écran. De même, une conférence est bien plus qu’une occasion d’écouter les réflexion d’un penseur bien connu sur un suet donné. Ces deux types d’événements sont autant d’occasion d’amener les gens à se parler, à créer des liens sociaux et à étoffer leurs réseaux. On peut même affirmer que ce point est beaucoup plus important que le film lui-même […]. Il est aussi important de prévoir un « temps de digestion », c’est-à-dire du temps pour réfléchir à ce que les gens ont entendu, plutôt que de déverser de l’information sur eux avant de les envoyer se coucher, clignant des yeux et abasourdis. Voici quelques idées pour vos projections ou conférences :
 
 ## **Réfléchir et écouter** :
 
