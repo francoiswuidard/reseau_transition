@@ -4,7 +4,7 @@
 
 ### **Objectifs de cette fiche**
 
-• Nous inviter à parler de la transition à nos proches, sans se faire reléguer au rang de l'empêcheur de tourner en rond.
+• Nous inviter à parler de la Transition à nos proches, sans se faire reléguer au rang de l'empêcheur de tourner en rond.
 
 • Nous ouvrir au fait que, comme le dit Jean-Phi, dans convaincre, il y a con et il y a vaincre.
 
@@ -26,7 +26,7 @@ Partagez vos craintes, sans les cracher sur l'autre, vos envies et désirs, la p
 
 **3.Suscitez le sentiment d'appartenance, la reconnaissance, par la séparation**
 
-J'ai envie de venir car je suis de la même tribu. Je vais faire comme mes pairs. Un de nos moteurs principal est celui-là, l'appartenance à un groupe. Dans la discussion, mieux vaut de discrets "je sais que tu es déjà sensible, en route", "je sais que tu agis déjà", "il me semble que tu est touché par.... je me trompe ?" que des "je fais ça déjà depuis longtemps", "nous on a compris", etc. Un des buts ultime de la transition est de relier, pas de recréer de la séparation, du "eux" et "nous".... agrandissons le nous !
+J'ai envie de venir car je suis de la même tribu. Je vais faire comme mes pairs. Un de nos moteurs principal est celui-là, l'appartenance à un groupe. Dans la discussion, mieux vaut de discrets "je sais que tu es déjà sensible, en route", "je sais que tu agis déjà", "il me semble que tu est touché par.... je me trompe ?" que des "je fais ça déjà depuis longtemps", "nous on a compris", etc. Un des buts ultime de la Transition est de relier, pas de recréer de la séparation, du "eux" et "nous".... agrandissons le nous !
 
 **4. Remerciez pour l'écoute, le temps et invitez à aller un peu plus loin**
 
@@ -40,7 +40,7 @@ Pour être de plus en plus à transformer nos lieux de vie, à construire plus d
 
 **Partager :**
 
-Nommer, sentir, diffuser.... participer au magnifique virus qu'est la transition ! Etre un maillon de la chaîne, une vois qui se mêle au choeur, un relais, une antenne !
+Nommer, sentir, diffuser.... participer au magnifique virus qu'est la Transition ! Etre un maillon de la chaîne, une vois qui se mêle au choeur, un relais, une antenne !
 
 **Donner :**
 
@@ -48,4 +48,4 @@ Aux initiatives citoyennes qui poussent, aux coopératives locales, pour l'accè
 
 Fiche incomplète, suite au prochain épisode
 
-**Ecrite et Publiée par Vincent Wattelet via Réseau transition Belgique selon les termes de la licence Creative Commons BY-NC-SA**
+**Ecrite et Publiée par Vincent Wattelet via Réseau Transition Belgique selon les termes de la licence Creative Commons BY-NC-SA**
