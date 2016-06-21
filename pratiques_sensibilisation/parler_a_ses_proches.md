@@ -1,6 +1,6 @@
 ## Parler à ses proches
 
-"Nul n'est prophète en son pays", wep mais... en même temps, c'est bien d'en parler, de la transition, non ?
+"Nul n'est prophète en son pays", wep mais... en même temps, c'est bien d'en parler, de la Transition, non ?
 
 ### **Objectifs de cette fiche**
 
