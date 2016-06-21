@@ -14,17 +14,17 @@
 
 Quelques trucs et astuces :
 
-**1.Ecoutez autant, si pas plus que parlez**
+**1. Ecoutez autant, si pas plus que parlez**
 
 Après un "Bonjour, comment vas-tu, et la famille, le chien, le jardin ?", il peut être chouette de demander à votre interlocuteur "comment te sens-tu dans le monde pour le moment ?", le laisser parler. Etre écouté ouvre à ce que l'autre va dire.
 
-**2.N'argumentez pas trop, parlez de ce que vous ressentez**
+**2. N'argumentez pas trop, parlez de ce que vous ressentez**
 
 C'est le coeur le vrai moteur. La tête est souvent pleine. IL est impressionant de voir le nombre de personnes qui agissent sans retenir les arguments, les chiffres... simplement, elle sentent que c'est important.
 
 Partagez vos craintes, sans les cracher sur l'autre, vos envies et désirs, la puissance de vos rêves et aussi vos colères... ce sera plus puissant que de citer de nombreux chiffres.
 
-**3.Suscitez le sentiment d'appartenance, la reconnaissance, par la séparation**
+**3. Suscitez le sentiment d'appartenance, la reconnaissance, par la séparation**
 
 J'ai envie de venir car je suis de la même tribu. Je vais faire comme mes pairs. Un de nos moteurs principal est celui-là, l'appartenance à un groupe. Dans la discussion, mieux vaut de discrets "je sais que tu es déjà sensible, en route", "je sais que tu agis déjà", "il me semble que tu est touché par.... je me trompe ?" que des "je fais ça déjà depuis longtemps", "nous on a compris", etc. Un des buts ultime de la Transition est de relier, pas de recréer de la séparation, du "eux" et "nous".... agrandissons le nous !
 
