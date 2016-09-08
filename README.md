@@ -14,6 +14,6 @@ published: true
 
 ![Réseau transition WB](http://reseautransition.be/wp-content/uploads/2015/05/header_logo_transition_4.png)
 
-> La Transition un processus mené par des citoyen(ne)s qui ont décidé d’agir pour que leur lieu de vie devienne plus résilient, plus soutenable et plus agréable à vivre.
+La Transition un processus mené par des citoyen(ne)s qui ont décidé d’agir pour que leur lieu de vie devienne plus résilient, plus soutenable et plus agréable à vivre.
 
 http://www.reseautransition.be
