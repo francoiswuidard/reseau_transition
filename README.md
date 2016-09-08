@@ -10,7 +10,7 @@ image_url: 'http://www.reseautransition.be/wp-content/uploads/2012/10/transition
 published: true
 ---
 
-# Le réseau des initiatives de transition Wallonie – Bruxelles 
+# Le Réseau Transition.be
 
 ![Réseau transition WB](http://reseautransition.be/wp-content/uploads/2015/05/header_logo_transition_4.png)
 
