@@ -34,9 +34,9 @@ Toutefois, il faut reconnaître que, probablement à cause de la division opér�
 
 **Ressources :**
 
-Le site internet [www.greatturningtimes.org](www.greatturningtimes.org) peut être utile. Il aborde la philosophie, les ressources et les événements liés à l'écopsychologie.
+Le site internet [www.greatturningtimes.org](http://www.greatturningtimes.org) peut être utile. Il aborde la philosophie, les ressources et les événements liés à l'écopsychologie.
 
-Une partie des outils jugés très utiles par les groupes Cœur et âme viennent de Joanna Macy : [www.joannamacy.net](www.joannamacy.net)
+Une partie des outils jugés très utiles par les groupes Cœur et âme viennent de Joanna Macy : [www.joannamacy.net](http://www.joannamacy.net)
 
 <a id="note"> </a>
 ## Notes
@@ -45,11 +45,11 @@ Une partie des outils jugés très utiles par les groupes Cœur et âme viennent
 
 [2] Macy, J. & Brown, M.Y. (1998) Coming Back to Life: Practises to reconnect our lives, our world. New Society Publishers.
 
-[3] [www.rainforestinfo.org.au/deep-eco/johnseed.htm](www.rainforestinfo.org.au/deep-eco/johnseed.htm)
+[3] [www.rainforestinfo.org.au/deep-eco/johnseed.htm](http://www.rainforestinfo.org.au/deep-eco/johnseed.htm)
 
 ## Sources
 Traduit du [Transition Companion](https://www.transitionnetwork.org/transition-companion) écrit par [Rob Hopkins](https://www.transitionnetwork.org/about/people/staff-and-key-contributors). Traduction par [Caroline Durieux](http://www.reseautransition.be/articles/author/caroline-durieux/) selon les termes de la licence Creative Commons BY-NC-SA.
 
 Publié par [François-Olivier Devaux](mailto:francois@reseautransition.be) via [Réseau Transition Belgique](http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
 
-Ce texte est hébergé sur la plate-forme collaborative Multibao. Vous souhaitez l'éditer ou le voir apparaître sur votre site internet ? Rendez-vous sur [www.multibao.org](www.multibao.org)
+Ce texte est hébergé sur la plate-forme collaborative Multibao. Vous souhaitez l'éditer ou le voir apparaître sur votre site internet ? Rendez-vous sur [www.multibao.org](http://www.multibao.org)
