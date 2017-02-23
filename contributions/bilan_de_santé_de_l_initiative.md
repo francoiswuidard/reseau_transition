@@ -10,7 +10,7 @@ image_url: https://github.com/multibao/contributions/blob/master/media/bilan_san
 
 # Comment se porte notre initiative de transition ?
 
-L'objectif du bilan de santé est d'aider les initiatives de Transition (IT) à :
+L'objectif du bilan de santé est d'aider les Initiatives de Transition (IT) à :
 - Faire le point sur ce qui a été accompli et réfléchir à ce qui fonctionne bien et à ce qui pourrait être amélioré
 - Célébrer les atouts et les réussites
 - Identifier les domaines qui nécessitent davantage de travail, de compétences ou de ressources
